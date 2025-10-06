@@ -3,19 +3,17 @@
 🎨 **UI/UX Designer** | 🌐 Florida | 🕓 Available for Full-Time Remote
 ---
 
-### 🧩 My Work
+### 🧩 My Work: “Good design doesn’t just look good — it feels effortless to use.”  
 
-> ✨ “Good design doesn’t just look good — it feels effortless to use.”  
-
-## 🎨 **Design Systems & UI Kits**
+🎨 **Design Systems & UI Kits**
 Reusable **Figma component libraries** built for scalability and brand consistency.  
 *Includes tokens, color systems, typography, and motion guidelines.*
 
-## 🧭 **UX Case Studies**
+🧭 **UX Case Studies**
 End-to-end **research and redesign projects** demonstrating measurable usability improvements.  
 *From problem definition to prototype testing.*
 
-## 💡 **Interactive Prototypes**
+💡 **Interactive Prototypes**
 High-fidelity **motion studies, onboarding flows, and transitions** that bring interfaces to life.  
 *Built using Figma Smart Animate and Framer Motion.*
 
