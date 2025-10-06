@@ -3,7 +3,7 @@
 🎨 **UI/UX Designer** | 🌐 Florida | 🕓 Available for Full-Time Remote
 ---
 
-### 🧩 My Work: “Good design doesn’t just look good — it feels effortless to use.”  
+### 🧩 My Work 
 
 🎨 **Design Systems & UI Kits**
 Reusable **Figma component libraries** built for scalability and brand consistency.  
