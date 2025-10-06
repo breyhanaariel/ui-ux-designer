@@ -1,5 +1,5 @@
-## 🎀 Hi, I'm Brianna Dickenson! 🎀 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianna-dickenson-9555515b) 
-[![Gmail](https://img.shields.io/badge/Email%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:breyhanadickenson@gmail.com?subject=Interested%20in%20Working%20With%20You)
+## 🎀 Hi, I'm Brianna Dickenson! 🎀 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianna-dickenson-9555515b) [![Gmail](https://img.shields.io/badge/Email%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:breyhanadickenson@gmail.com?subject=Interested%20in%20Working%20With%20You)
+
 🎨 **UI/UX Designer** | 🌐 Florida | 🕓 Available for Full-Time Remote
 ---
 
@@ -7,15 +7,15 @@
 
 > ✨ “Good design doesn’t just look good — it feels effortless to use.”  
 
-#### 🎨 **Design Systems & UI Kits**
+## 🎨 **Design Systems & UI Kits**
 Reusable **Figma component libraries** built for scalability and brand consistency.  
 *Includes tokens, color systems, typography, and motion guidelines.*
 
-#### 🧭 **UX Case Studies**
+## 🧭 **UX Case Studies**
 End-to-end **research and redesign projects** demonstrating measurable usability improvements.  
 *From problem definition to prototype testing.*
 
-#### 💡 **Interactive Prototypes**
+## 💡 **Interactive Prototypes**
 High-fidelity **motion studies, onboarding flows, and transitions** that bring interfaces to life.  
 *Built using Figma Smart Animate and Framer Motion.*
 
