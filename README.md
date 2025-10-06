@@ -22,7 +22,7 @@ High-fidelity **motion studies, onboarding flows, and transitions** that bring i
 
 🎨 **Design & Prototyping**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=adobexd&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=adobexd&logoColor=white)\
 ![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=flat&logo=sketch&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white)
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20CC-DA1F26?style=flat&logo=adobecreativecloud&logoColor=white)
