@@ -1,4 +1,6 @@
-# 🎀 Brianna Dickenson **UI/UX Designer** 🎀
+# 🎀 Brianna Dickenson 🎀
+
+### **UI/UX Designer**
 
 🕓 Available for Full-Time Remote
 
