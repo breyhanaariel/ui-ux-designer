@@ -51,15 +51,17 @@
 
 ### 🧩 My Work 
 
-🎨 **Design Systems & UI Kits**
-Reusable **Figma component libraries** built for scalability and brand consistency.  
-*Includes tokens, color systems, typography, and motion guidelines.*
+#### **Sweet Habits — Mobile Habit Tracker Redesign UI/UX Case Study**
 
-🧭 **UX Case Studies**
-End-to-end **research and redesign projects** demonstrating measurable usability improvements.  
-*From problem definition to prototype testing.*
+A soft pastel mobile app that helps users build gentle habits through daily affirmations and progress visuals. The redesign is it to make it more intuitive, emotionally uplifting, and inclusive while maintaing a cute, cohesive, and emotionally engaging brand identity
 
-💡 **Interactive Prototypes**
-High-fidelity **motion studies, onboarding flows, and transitions** that bring interfaces to life.  
-*Built using Figma Smart Animate and Framer Motion.*
+🔗 [Live Demo](https://your-vercel-link.vercel.app)
+
+💻 [GitHub Repo](https://github.com/breyhanaariel/ui-ux-designer/sweet-habits)
+
+✅ Design Goals:
+- Encourage **habit consistency** with emotional feedback and cute mascots  
+- Use **soft, pastel gradients** to evoke calm and motivation  
+- Maintain **high readability** with modern rounded typography  
+- Provide **gentle motion cues** for transitions and completed actions  
 
