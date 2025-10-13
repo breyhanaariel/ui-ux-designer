@@ -53,7 +53,7 @@
 
 #### **Sweet Habits — Mobile Habit Tracker Redesign UI/UX Case Study**
 
-A soft pastel mobile app that helps users build gentle habits through daily affirmations and progress visuals. The redesign is it to make it more intuitive, emotionally uplifting, and inclusive while maintaing a cute, cohesive, and emotionally engaging brand identity
+Redesigning an existing app to improve user flow, accessibility, and emotional engagement.
 
 🔗 [Live Demo](https://your-vercel-link.vercel.app)
 
@@ -65,3 +65,30 @@ A soft pastel mobile app that helps users build gentle habits through daily affi
 - Maintain **high readability** with modern rounded typography  
 - Provide **gentle motion cues** for transitions and completed actions  
 
+#### **Blossom UI — Modular Design System For Web & Mobile**
+
+Cohesive and scalable design system for a brand.
+
+🔗 [Live Demo](https://your-vercel-link.vercel.app)
+
+💻 [GitHub Repo](https://github.com/breyhanaariel/ui-ux-designer/sweet-habits)
+
+✅ Design Goals:
+- Encourage **habit consistency** with emotional feedback and cute mascots  
+- Use **soft, pastel gradients** to evoke calm and motivation  
+- Maintain **high readability** with modern rounded typography  
+- Provide **gentle motion cues** for transitions and completed actions  
+
+#### **Sweet Habits — Mobile Habit Tracker Redesign UI/UX Case Study**
+
+UX study focused on improving the usability of an e-commerce checkout process.
+
+🔗 [Live Demo](https://your-vercel-link.vercel.app)
+
+💻 [GitHub Repo](https://github.com/breyhanaariel/ui-ux-designer/sweet-habits)
+
+✅ Design Goals:
+- Encourage **habit consistency** with emotional feedback and cute mascots  
+- Use **soft, pastel gradients** to evoke calm and motivation  
+- Maintain **high readability** with modern rounded typography  
+- Provide **gentle motion cues** for transitions and completed actions  
