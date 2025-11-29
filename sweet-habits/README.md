@@ -66,11 +66,22 @@ _All design files & visuals are organized in this repo._
 [![Maze](https://img.shields.io/badge/Testing-Maze-6E44FF?style=flat&logo=metabase&logoColor=white)]()
 [![Accessibility](https://img.shields.io/badge/WCAG-2.2-4CAF50?style=flat&logo=accessibility&logoColor=white)]()
 
-| Category | Tools |
-|-----------|-------|
-| 🎨 Design | Figma · Adobe Illustrator |
-| 🧠 Research | Maze · Notion · FigJam · Google Forms |
-| 🧩 Handoff | Zeplin · Storybook · Loom |
+### 🛠 Tools & Software
+
+#### 🎨 Design  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
+
+#### 🧠 Research & Testing  
+![Maze](https://img.shields.io/badge/Maze-191919?style=flat&logo=googleanalytics&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![FigJam](https://img.shields.io/badge/FigJam-F24E1E?style=flat&logo=figma&logoColor=white)
+![Google Forms](https://img.shields.io/badge/Google%20Forms-673AB7?style=flat&logo=googleforms&logoColor=white)
+
+#### 🧩 Collaboration & Handoff  
+![Zeplin](https://img.shields.io/badge/Zeplin-FCBF49?style=flat&logo=sketch&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
+![Loom](https://img.shields.io/badge/Loom-625DF5?style=flat&logo=loom&logoColor=white)
 
 ---
 
