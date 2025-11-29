@@ -59,14 +59,7 @@ _All design files & visuals are organized in this repo._
 
 ---
 
-## 🛠 Tools & Tech Stack
-
-[![Figma](https://img.shields.io/badge/Design-Figma-F24E1E?style=flat&logo=figma&logoColor=white)]()
-[![Framer](https://img.shields.io/badge/Prototype-Framer-00BFFF?style=flat&logo=framer&logoColor=white)]()
-[![Maze](https://img.shields.io/badge/Testing-Maze-6E44FF?style=flat&logo=metabase&logoColor=white)]()
-[![Accessibility](https://img.shields.io/badge/WCAG-2.2-4CAF50?style=flat&logo=accessibility&logoColor=white)]()
-
-### 🛠 Tools & Software
+## 🛠 Tools & Software
 
 #### 🎨 Design  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
