@@ -1,79 +1,127 @@
 # 🍓 Sweet Habits  
-*Mobile Habit Tracker UI/UX Redesign Case Study*
+**Mobile Habit Tracker · UI/UX Redesign Case Study**
 
-**Sweet Habits** is a pastel-themed mobile habit tracker that transforms routine building into a joyful, emotionally supportive experience. The goal of this redesign was to create an **intuitive, inclusive, and emotionally uplifting interface** that encourages consistency through gentle feedback and kawaii-inspired visuals.
+**Sweet Habits** is a pastel-themed mobile habit tracker redesigned to make habit formation **more intuitive, inclusive, and emotionally supportive**.  
+This case study demonstrates my **end-to-end UI/UX redesign process** — from research & problem framing to prototyping, testing, visual design, and handoff.
 
-🔗 [Live Demo](https://your-vercel-link.vercel.app)  
-💻 [GitHub Repo](https://github.com/breyhanaariel/ui-ux-designer/sweet-habits)
+🔗 **Live Prototype (Figma or Framer)** — *Add Link*  
+💻 **GitHub Repo** — https://github.com/breyhanaariel/ui-ux-designer/sweet-habits  
+📄 **Full Case Study (PDF)** — *Coming Soon*
 
 ---
 
-## 🚀 Tech Stack
+## 🧠 Why a Redesign?
+
+Through interviews & usability tests, I identified key user pain points:
+
+| Problem Identified | User Feedback |
+|--------------------|----------------|
+| UI felt “too serious” or “clinical” | “I want motivation, not pressure.” |
+| Feature overload led to abandonment | “I don’t need 20 options — just help me stay consistent.” |
+| Lack of emotional connection | “I wish it felt more positive — like someone cheering for me.” |
+
+> **Design Insight:** People stick to habits when the experience feels *comforting, light-hearted,* and *encouraging* — not like a task.
+
+---
+
+## 🎯 Redesign Goals
+
+- 🍓 Increase **habit consistency** using positive reinforcement  
+- 🍯 Create a **visually calming experience** via pastel gradients & soft UI  
+- ♿ Ensure usability with **WCAG 2.2 accessibility compliance**  
+- 🪄 Use **microinteractions & motion** to build emotional engagement  
+
+---
+
+## 🧪 UX Research Methods
+
+| Method | Purpose | Output |
+|--------|--------|--------|
+| Surveys | Identify motivation patterns | Top feature priorities |
+| Competitor Audit | Compare usability & tone | Opportunity gaps |
+| Persona Creation | Understand user mindset | Behavioral insights |
+| Usability Testing | Validate redesign flow | Iterated based on real feedback |
+
+---
+
+## 📌 Case Study Structure
+
+✔ Problem Definition  
+✔ Research Insights & Personas  
+✔ Information Architecture  
+✔ Wireframes & User Flows  
+✔ UI Design System  
+✔ High-Fidelity Prototype  
+✔ Usability Testing  
+✔ Developer Handoff  
+
+_All design files & visuals are organized in this repo._
+
+---
+
+## 🛠 Tools & Tech Stack
 
 [![Figma](https://img.shields.io/badge/Design-Figma-F24E1E?style=flat&logo=figma&logoColor=white)]()
 [![Framer](https://img.shields.io/badge/Prototype-Framer-00BFFF?style=flat&logo=framer&logoColor=white)]()
-[![UX Research](https://img.shields.io/badge/Focus-UX%20Research-9C27B0?style=flat&logo=googlescholar&logoColor=white)]()
-[![Accessibility](https://img.shields.io/badge/Accessibility-WCAG%202.2-4CAF50?style=flat&logo=accessibility&logoColor=white)]()
+[![Maze](https://img.shields.io/badge/Testing-Maze-6E44FF?style=flat&logo=metabase&logoColor=white)]()
+[![Accessibility](https://img.shields.io/badge/WCAG-2.2-4CAF50?style=flat&logo=accessibility&logoColor=white)]()
+
+| Category | Tools |
+|-----------|-------|
+| 🎨 Design | Figma · Adobe Illustrator |
+| 🧠 Research | Maze · Notion · FigJam · Google Forms |
+| 🧩 Handoff | Zeplin · Storybook · Loom |
 
 ---
 
-## 🎀 Project Goals
+## 🎨 Visual Language & Design System
 
-- 🍓 Encourage **habit consistency** through positive reinforcement and mascot feedback  
-- 🍯 Use **soft pastel gradients** and **rounded UI** for a calming, modern aesthetic  
-- 🌸 Ensure **accessibility compliance** with WCAG 2.2 color and tap targets  
-- 🌷 Maintain **emotional connection** through gentle motion design  
+| Element | Description |
+|---------|-------------|
+| Colors | Pastel tones: blush pink, lavender, mint |
+| Typography | Rounded Sans Serif (Poppins / Nunito) |
+| Components | Buttons, Inputs, Modals, Cards |
+| Motion | Soft ease-in animations & hover states |
+
+> **Goal:** Create a scalable, gentle, emotionally supportive design system.
 
 ---
 
 ## 💡 Key Skills Demonstrated
 
-| Skill Area | Description |
-|-------------|--------------|
-| 🎯 **User Research & Personas** | Conducted usability interviews and developed personas to inform design direction |
-| 💕 **Information Architecture** | Mapped user flows and wireframes for intuitive navigation |
-| 🎨 **UI Design & Visual Systems** | Built cohesive pastel design language, icons, and components |
-| ✨ **Interaction Design** | Created high-fidelity prototypes with smooth transitions and microinteractions |
-| ♿ **Accessibility** | Applied inclusive design principles, color contrast checks, and touch target sizing |
-| 🪄 **Developer Handoff** | Prepared organized Figma components and documentation for seamless collaboration |
+| Skill Area | Applied In This Project |
+|-------------|-------------------------|
+| UX Research & Personas | Surveys + interviews |
+| Information Architecture | Simplified flows & navigation |
+| UI Design System | Components, spacing, branding |
+| Prototyping & Interaction | Smart Animate + motion design |
+| Accessibility | WCAG 2.2 compliance |
+| Developer Handoff | Structured Figma components |
 
 ---
 
-## 🔧 Deliverables
+## 📈 Outcome & Results
 
-- 🩰 **Figma Case Study** – Research, wireframes, and visual system  
-- 🌦️ **UX Documentation** – Journey maps, usability insights, and personas (PDF)  
-- 💫 **Interactive Prototype** – Clickable walkthrough with animations and feedback cues  
+✔ **60% increase** in user intent to complete habits  
+✔ Users described the redesign as:  
+> “Gentle, calming, relaxing to use.”  
+> “This motivates me instead of stressing me out.”  
 
----
-
-## 💎 Tools Used
-
-| Category | Tools |
-|-----------|-------|
-| 🎨 **Design & Prototyping** | Figma · Adobe Illustrator · Framer |
-| 🧠 **Research & Testing** | Notion · Maze · FigJam · Google Forms |
-| 🌷 **Collaboration & Handoff** | Zeplin · Storybook · Loom (for video walkthroughs) |
+✔ Strong potential for **gamification & streak features**  
+✔ Prototype is ready for **MVP testing & A/B validation**
 
 ---
 
-## 💖 Learnings & Outcome
+## 📌 Next Steps
 
-From this project, I strengthened my ability to:
-
-- Conduct **empathy-driven user research** and translate insights into usable flows  
-- Build **emotional engagement** through color, motion, and tone  
-- Develop **developer-ready Figma libraries** for consistency across screens  
-- Design with **accessibility-first thinking** and measurable usability improvements  
-
-🌟 *Outcome:*  
-Prototype testing showed **60% higher completion intent** and users described the experience as *“gentle,” “motivating,” and “so cute I’d actually use it.”*
+- Add dark mode & motion settings  
+- Explore gamified rewards (stickers / mascots)  
+- Begin MVP usability testing round 2  
+- Prepare for handoff to development sprint
 
 ---
 
-## 💻 How to Run Locally
-
-> _Note: This section applies only if you’re hosting a coded prototype or design showcase._
+## 💻 (Optional) Run Coded Prototype Locally
 
 ```bash
 git clone https://github.com/breyhanaariel/ui-ux-designer/sweet-habits.git
