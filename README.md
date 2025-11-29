@@ -71,7 +71,7 @@ Cohesive and scalable design system for a brand.
 
 🔗 [Live Demo](https://your-vercel-link.vercel.app)
 
-💻 [GitHub Repo](https://github.com/breyhanaariel/ui-ux-designer/sweet-habits)
+💻 [GitHub Repo](https://github.com/breyhanaariel/ui-ux-designer/blossom-ui)
 
 ✅ Design Goals:
 - Encourage **habit consistency** with emotional feedback and cute mascots  
@@ -79,9 +79,9 @@ Cohesive and scalable design system for a brand.
 - Maintain **high readability** with modern rounded typography  
 - Provide **gentle motion cues** for transitions and completed actions  
 
-#### **Sweet Habits — Mobile Habit Tracker Redesign UI/UX Case Study**
+#### ** — Interactive Prototype**
 
-UX study focused on improving the usability of an e-commerce checkout process.
+
 
 🔗 [Live Demo](https://your-vercel-link.vercel.app)
 
