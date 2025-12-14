@@ -51,37 +51,9 @@
 
 ### 🧩 My Work 
 
-#### **Sweet Habits — Mobile Habit Tracker Redesign UI/UX Case Study**
+#### **Redesign UI/UX Case Study**
 
 Redesigning an existing app to improve user flow, accessibility, and emotional engagement.
-
-🔗 [Live Demo](https://your-vercel-link.vercel.app)
-
-💻 [GitHub Repo](https://github.com/breyhanaariel/ui-ux-designer/sweet-habits)
-
-✅ Design Goals:
-- Encourage **habit consistency** with emotional feedback and cute mascots  
-- Use **soft, pastel gradients** to evoke calm and motivation  
-- Maintain **high readability** with modern rounded typography  
-- Provide **gentle motion cues** for transitions and completed actions  
-
-#### **Blossom UI — Modular Design System For Web & Mobile**
-
-Cohesive and scalable design system for a brand.
-
-🔗 [Live Demo](https://your-vercel-link.vercel.app)
-
-💻 [GitHub Repo](https://github.com/breyhanaariel/ui-ux-designer/blossom-ui)
-
-✅ Design Goals:
-- Encourage **habit consistency** with emotional feedback and cute mascots  
-- Use **soft, pastel gradients** to evoke calm and motivation  
-- Maintain **high readability** with modern rounded typography  
-- Provide **gentle motion cues** for transitions and completed actions  
-
-#### ** — Interactive Prototype**
-
-
 
 🔗 [Live Demo](https://your-vercel-link.vercel.app)
 
