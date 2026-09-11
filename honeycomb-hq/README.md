@@ -1,12 +1,14 @@
 # 🍯 Honeycomb HQ
 ### **Creative Agency Operations SaaS · Responsive Product Design · Coded Prototype**
 
+![Honeycomb HQ SaaS](./assets/hero.png)
+
 **Honeycomb HQ** is a responsive B2B SaaS concept for small creative agencies that need one place to understand **clients, projects, deadlines, approvals, team workload, and invoices**.
 
 The project is intentionally more structured and data-dense than my consumer work. Its goal is to demonstrate how I approach **complex workflows, information hierarchy, responsive product UI, error prevention, accessibility, and design-to-development handoff**.
 
-🐝 **Coded Prototype:** *Deployment link to be added after implementation*  
-🎨 **Figma:** *Prototype / design file link to be added*  
+🐝 **Coded Prototype:** *Public deployment is configured via GitHub Pages*  
+🎨 **Figma:** [View Honeycomb HQ](https://www.figma.com/design/CpSMZrgQWTAxjiks0OKxST?node-id=1-93)  
 📄 [Full UX Case Study](./UX_CASE_STUDY.md)  
 📋 [Product Requirements](./PRODUCT_REQUIREMENTS.md)  
 🗺️ [Flows & Information Architecture](./FLOWS_AND_IA.md)  
