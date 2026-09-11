@@ -1,54 +1,95 @@
+# 🍯 Sweet Habits — Interactive Prototype Specification
 
-# 🍯 Sweet Habits — Interactive Prototype
-
-[![Prototype](https://img.shields.io/badge/Built%20with-Framer-00BFFF?style=flat-square&logo=framer&logoColor=white)]()  
-[![Figma Prototype](https://img.shields.io/badge/Figma-Prototype-FF69B4?style=flat-square&logo=figma&logoColor=white)]()
+🎀 **Prototype URL:** *Add Figma or Framer link here when created*
 
 ---
 
-## 💕 Prototype Overview
-A fully clickable, mobile-friendly Figma prototype that demonstrates motion design, microinteractions, and emotional feedback loops.
+## 💕 Prototype Goal
+
+The prototype should demonstrate the **core behavioral loop** of Sweet Habits rather than trying to simulate every possible feature.
+
+### Primary loop
+`Open app → See today's habits → Add or complete a habit → Receive feedback → Review progress`
 
 ---
 
-## 🎠 Key Flows Demonstrated
-1. **Onboarding Experience** – Soft transitions and calming introduction  
-2. **Habit Creation** – Intuitive icon picker and goal setup  
-3. **Progress Feedback** – Animated mascot celebrates success  
-4. **Profile Dashboard** – Minimal layout, easy navigation  
+## 🎠 Required Prototype Flows
+
+### 1. First-time entry
+- Welcome / value proposition
+- Optional setup
+- Arrive at Today screen
+
+### 2. Create a habit
+- Start “Add Habit”
+- Enter name
+- Choose frequency
+- Choose reminder
+- Confirm
+- See habit on dashboard
+
+### 3. Complete a habit
+- Mark complete
+- Show clear state change
+- Trigger lightweight celebratory feedback
+
+### 4. Review progress
+- Open progress
+- Scan weekly status
+- Inspect one habit
+
+### 5. Edit a habit
+- Open details
+- Change reminder or schedule
+- Save
+
+### 6. Reduced motion
+- Demonstrate alternate completion feedback without decorative motion
 
 ---
 
-## 🌷 Prototype Details
-- Tap transitions with 300ms easing curves  
-- Microinteractions (sparkles, confetti bursts) using Smart Animate  
-- “Completed Habit” triggers a pop-up animation  
-- Accessible motion settings for reduced motion users  
+## ✨ Interaction Guidance
+
+- Keep functional transitions short and consistent.
+- Use motion to explain hierarchy or state change.
+- Avoid motion that blocks task completion.
+- Pair animations with non-motion feedback.
+- Document reduced-motion alternatives.
+- Avoid relying on color alone for complete / incomplete states.
 
 ---
 
-## 📱 Preview Screens (AI Image Prompts Below)
+## 🧁 States to Prototype
 
-| Screen | Description | Prompt |
-|---------|--------------|--------|
-| 🌸 Onboarding | Soft welcome with mascot | `mobile onboarding screens with kawaii mascot, pastel pink gradients, minimal UI` |
-| 🍰 Dashboard | Daily habit overview | `habit tracker dashboard screen, pastel pink, kawaii icons, rounded cards, soft shadows` |
-| 🪞 Habit Setup | Goal entry form | `mobile screen for adding new habit, soft colors, clean input fields, minimal rounded UI` |
-| 💫 Celebration | Mascot throwing confetti | `cute chibi mascot cheering, pastel confetti, minimal flat art, UI success state` |
-
----
-
-## 💬 Usability Results
-- 5/6 participants completed the main flow successfully  
-- Users described it as “satisfying,” “cute,” and “motivating”  
-- 92% said they’d use the app daily if real
+- Default
+- Pressed / active
+- Completed
+- Empty
+- Error
+- Success
+- Disabled
+- Loading where relevant
 
 ---
 
-## 🌈 View Prototype
-🎀 **Figma Link:** [Insert Figma Prototype URL Here]
+## 🧪 Prototype Test Tasks
+
+Use the prototype for task-based usability testing:
+
+1. Add a daily habit called “Drink Water.”
+2. Set a reminder.
+3. Mark today's habit complete.
+4. Find your weekly progress.
+5. Change the reminder time.
+
+Do **not** add success-rate percentages until real participants have completed these tasks.
 
 ---
 
-⭐ **If you like this project, please star the repo and follow my GitHub!**  
-Your support helps me keep making adorable, human-centered designs 💖
+## 🖼️ Required Visual Exports
+
+- `assets/08-final-ui-overview.png`
+- `assets/12-prototype-flow.png`
+- `assets/13-motion-states.png`
+
+See [assets/README.md](./assets/README.md) for the full asset list.
