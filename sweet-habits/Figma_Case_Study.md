@@ -157,6 +157,8 @@ Add actual test observations after testing. Do not invent percentages.
 
 ## 9. ✨ Final UI Screens
 
+![Sweet Habits final UI](./assets/final-ui.png)
+
 Minimum final-screen set:
 1. Onboarding / introduction
 2. Today dashboard
@@ -181,7 +183,7 @@ The interactive prototype should demonstrate:
 - Edit habit
 - Reduced-motion alternative
 
-🎀 **Prototype link:** *Add Figma/Framer URL here when ready*
+🎨 **Figma design:** [View Sweet Habits](https://www.figma.com/design/CpSMZrgQWTAxjiks0OKxST?node-id=1-32)
 
 See [Interactive_Prototype.md](./Interactive_Prototype.md).
 
