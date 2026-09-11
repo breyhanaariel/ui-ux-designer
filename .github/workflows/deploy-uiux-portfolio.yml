@@ -1,4 +1,4 @@
-name: Deploy UI UX Portfolio
+name: Validate UI UX Portfolio
 
 on:
   push:
@@ -7,22 +7,26 @@ on:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: pages
-  cancel-in-progress: true
 
 jobs:
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  validate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Prepare routed static site
+      - name: Validate required portfolio files
+        run: |
+          test -f site/index.html
+          test -f README.md
+          test -f sweet-habits/README.md
+          test -f blossom-ui/README.md
+          test -f honeycomb-hq/README.md
+          test -f sweet-habits/assets/hero.png
+          test -f blossom-ui/assets/hero.png
+          test -f honeycomb-hq/assets/hero.png
+          grep -q "Sweet Habits" site/index.html
+          grep -q "Blossom UI" site/index.html
+          grep -q "Honeycomb HQ" site/index.html
+      - name: Package static portfolio
         run: |
           mkdir -p public/sweet-habits public/blossom-ui public/honeycomb-hq
           cp site/index.html public/index.html
@@ -30,12 +34,7 @@ jobs:
           cp site/index.html public/blossom-ui/index.html
           cp site/index.html public/honeycomb-hq/index.html
           cp site/index.html public/404.html
-      - uses: actions/configure-pages@v5
+      - uses: actions/upload-artifact@v4
         with:
-          enablement: true
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./public
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+          name: ui-ux-portfolio-static
+          path: public
