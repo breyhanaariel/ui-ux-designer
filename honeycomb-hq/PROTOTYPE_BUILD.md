@@ -1,8 +1,8 @@
-# 💻 Honeycomb HQ — Coded Prototype Plan
+# 💻 Honeycomb HQ — Coded Prototype Implementation
 
-## 🌼 Goal
+## 🌼 Status
 
-Build a **front-end-only interactive prototype** that behaves like a credible SaaS product without pretending to have production infrastructure.
+✅ A **front-end-only interactive prototype** is implemented in `site/index.html`. It behaves like a credible SaaS product without pretending to have production infrastructure.
 
 The code should support the portfolio case study by proving:
 - Responsive implementation
@@ -14,26 +14,18 @@ The code should support the portfolio case study by proving:
 
 ---
 
-## 🛠 Planned Stack
+## 🛠 Implemented Stack
 
-- React
-- TypeScript
-- Tailwind CSS
-- React Router
-- Lightweight local state
-- Static/mock JSON data
+- Semantic HTML
+- Responsive CSS
+- Vanilla JavaScript
+- Local in-memory mock data
 
-Optional only if useful:
-- Recharts for a small number of meaningful visualizations
-- Lucide icons
-- Testing Library
-- Vitest
-
-Avoid adding libraries solely to make the stack look larger.
+The dependency-free implementation keeps the portfolio demo fast, portable, and easy to deploy.
 
 ---
 
-## 📁 Planned Prototype Structure
+## 📁 Repository Structure
 
 ```
 honeycomb-hq/
@@ -44,22 +36,10 @@ honeycomb-hq/
 ├── INTERACTION_SPEC.md
 ├── ACCESSIBILITY.md
 ├── PROTOTYPE_BUILD.md
-├── assets/
-│   └── README.md
-└── prototype/
-    ├── package.json
-    ├── src/
-    │   ├── app/
-    │   ├── components/
-    │   ├── features/
-    │   ├── data/
-    │   ├── hooks/
-    │   ├── types/
-    │   └── utils/
-    └── ...
-```
+└── assets/
 
-The `prototype/` application should only be added once real implementation begins.
+site/
+└── index.html  # portfolio + all three working interactive showcases
 
 ---
 
@@ -115,41 +95,20 @@ Do not use real client data.
 
 ---
 
-## ✅ Interactive Prototype Milestones
+## ✅ Implemented Prototype Areas
 
-### Milestone 1 — Shell
-- Responsive navigation
-- Routes
-- Layout
-- Mock data
-
-### Milestone 2 — Dashboard
-- Attention queue
-- Deadlines
-- Approvals
-- Billing warning
-- Workload signal
-
-### Milestone 3 — Projects
-- Table
-- Search
-- Sort
-- Filters
-- Project detail
-
-### Milestone 4 — Actions
-- Create project
-- Update status
-- Approval action
-- Reassignment
-- Invoice follow-up state
-
-### Milestone 5 — Quality
-- Empty/loading/error states
-- Keyboard review
-- Reduced motion
-- Mobile
-- Basic component tests
+- Responsive application shell
+- Dashboard attention queue
+- Projects data table
+- Search and filtering
+- Project detail interaction
+- Create-project flow
+- Approval and invoice state interactions
+- Responsive table-to-card transformation
+- Empty states
+- Modal focus handling
+- Reduced-motion support
+- Keyboard interaction
 
 ---
 
@@ -171,6 +130,4 @@ Required:
 
 ## 🌷 Deployment
 
-Prepare `prototype/` so it can deploy independently to a static host such as Vercel or Netlify.
-
-Do not add a fake deployment URL to the portfolio. Add the link only after a real deployment exists.
+`vercel.json` is committed at the repository root and routes all portfolio paths to the static application. A real public URL will be added only after the Vercel account connection authorizes publication.
