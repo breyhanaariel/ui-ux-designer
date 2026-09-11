@@ -50,8 +50,21 @@ A feminine, floral-inspired design system for responsive web and mobile products
 
 ---
 
-### 🧁 Showcase Project #3 — Coming Next
-The third case study will add a **responsive, coded product prototype** that complements Sweet Habits and Blossom UI with a different visual style and more complex business workflows.
+### 🍯 Honeycomb HQ — Creative Agency Operations SaaS
+**B2B SaaS · Responsive Product Design · Complex Workflows · Coded Prototype**
+
+A responsive operations workspace for small creative agencies managing clients, projects, approvals, deadlines, team workload, and billing.
+
+**What it demonstrates**
+- Complex B2B information architecture
+- Dashboard prioritization and data density
+- Tables, search, filters, and workflow states
+- Responsive desktop-to-mobile product design
+- Error prevention and accessibility
+- Design-to-code thinking with a planned React/TypeScript prototype
+
+🔗 [View Case Study](./honeycomb-hq/README.md)  
+🐝 **Coded Prototype:** *Deployment link to be added after implementation*
 
 ---
 
@@ -64,6 +77,16 @@ The third case study will add a **responsive, coded product prototype** that com
 | 🧩 **Design Systems** | Components · Variants · Tokens · Variables · Documentation · Usage guidelines |
 | ♿ **Accessibility** | WCAG 2.2-informed design · Contrast · Focus states · Touch targets · Reduced motion |
 | 💻 **Design → Development** | Figma Dev Mode · Responsive specs · Interaction notes · Handoff documentation |
+
+---
+
+## 🌈 Portfolio Range
+
+| Project | Product Type | Primary Proof |
+|---|---|---|
+| 🍓 **Sweet Habits** | Consumer mobile | End-to-end UX + emotional interaction design |
+| 🌸 **Blossom UI** | Design system | Components + tokens + accessibility + handoff |
+| 🍯 **Honeycomb HQ** | B2B SaaS | Complex workflows + responsive UI + coded prototype |
 
 ---
 
