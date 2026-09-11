@@ -63,7 +63,7 @@ A responsive operations workspace for small creative agencies managing clients, 
 - Tables, search, filters, and workflow states
 - Responsive desktop-to-mobile product design
 - Error prevention and accessibility
-- Design-to-code thinking with a planned React/TypeScript prototype
+- Design-to-code thinking with a working interactive prototype
 
 🔗 [View Case Study](./honeycomb-hq/README.md)  
 🎨 **Figma:** [View Honeycomb HQ](https://www.figma.com/design/CpSMZrgQWTAxjiks0OKxST?node-id=1-93)
