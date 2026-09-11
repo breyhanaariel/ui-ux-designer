@@ -1,0 +1,39 @@
+name: Deploy UI UX Portfolio
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Prepare routed static site
+        run: |
+          mkdir -p public/sweet-habits public/blossom-ui public/honeycomb-hq
+          cp site/index.html public/index.html
+          cp site/index.html public/sweet-habits/index.html
+          cp site/index.html public/blossom-ui/index.html
+          cp site/index.html public/honeycomb-hq/index.html
+          cp site/index.html public/404.html
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
