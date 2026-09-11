@@ -1,67 +1,186 @@
 # 🌸 Blossom UI — Modular Design System
+### **Design Systems · Components · Accessibility · Developer Handoff**
 
-A **cheerful, feminine design system** built around floral tones, rounded corners, and soft animations.  
-**Blossom UI** showcases mastery of **consistency, scalability, and developer collaboration** — the heart of professional UI/UX design.
+**Blossom UI** is a feminine, floral-inspired design system concept for responsive web and mobile products.
 
-![Blossom UI Banner](images/banner.png)
+The goal is to demonstrate that a soft, expressive visual language can still be **systematic, scalable, accessible, and implementation-ready**.
 
----
-
-## 💐 Overview
-
-**Blossom UI** is a modular, reusable design system for **web and mobile** projects.  
-It combines thoughtful UX structure with delightful UI details, built for teams that value both **aesthetics** and **efficiency**.
-
-The system was created to demonstrate:
-- 🌸 **Design systems thinking**
-- 🎨 **Scalable component logic**
-- 🩰 **Soft, emotional brand expression**
-- 🧠 **Developer handoff best practices**
+🌷 **Figma Library:** *Link to be added after the library is created*  
+📘 [Design System Specification](./DESIGN_SYSTEM_SPEC.md)  
+🧩 [Component Inventory](./COMPONENT_INVENTORY.md)  
+♿ [Accessibility Guidelines](./ACCESSIBILITY.md)  
+💻 [Developer Handoff](./HANDOFF.md)  
+🖼️ [Visual Asset Checklist](./assets/README.md)
 
 ---
 
-## 🧠 Skills Shown
+## 💐 Project Snapshot
 
-| Category | Skills |
-|-----------|--------|
-| 🎨 **Design Tokens** | Colors · Typography · Spacing · Shadows |
-| 🧩 **Figma Components** | Auto Layout · Variants · Constraints |
-| 📝 **Documentation** | Naming Conventions · Usage Guidelines · States |
-| ♿ **Accessibility** | Color Contrast · Focus Rings · Motion Preferences |
-| 💻 **Developer Handoff** | Zeplin · Figma Dev Mode · Storybook Mock-up |
-
----
-
-## 🌷 Deliverables
-
-| Type | Description |
-|------|--------------|
-| 🎨 **Figma Design System File** | Organized styles, tokens, and modular components for responsive web & mobile |
-| 📘 **README Documentation** | Clear usage examples, brand logic, and component guidelines |
-| 🧩 **Example Screens** | Mini mockups showcasing component application and consistency |
+| | |
+|---|---|
+| **Role** | UI/UX Designer / Design System Designer |
+| **Project Type** | Independent design-system case study |
+| **Platforms** | Responsive web + mobile |
+| **Status** | In progress |
+| **Primary Tool** | Figma |
+| **Focus** | Tokens · Components · States · Documentation · Accessibility · Handoff |
 
 ---
 
-## 🌸 Design Philosophy
+## 🌷 Design Challenge
 
-> “Consistency is the garden where great experiences bloom.”
+> **How might a design system preserve a warm, distinctive brand personality while giving product teams predictable components, accessible behavior, and reusable implementation rules?**
 
-**Blossom UI** is built on three guiding principles:
-1. **Harmony** — cohesive visuals through consistent tokens  
-2. **Empathy** — accessible design choices for all users  
-3. **Delight** — soft animations and subtle transitions for emotional engagement  
+Blossom UI is not intended to be a collection of pretty components. It should function as a small but coherent product system.
 
 ---
 
-## 🌼 Visual Language
+## 🌼 System Principles
 
-| Element | Description |
-|----------|-------------|
-| 🎀 **Color Palette** | Floral tones: blush pinks, creams, lavenders, and sage greens |
-| 🩰 **Shapes** | Rounded corners and pill-style buttons for softness |
-| 🌸 **Typography** | Feminine sans-serif headings with calm, legible body text |
-| 💫 **Motion** | Gentle fade-ins, hover glows, and bounce easing for interaction feedback |
+### 1. Harmony
+Shared tokens and component rules create visual consistency across products.
+
+### 2. Empathy
+Accessibility behavior is specified as part of the component, not added after visual design.
+
+### 3. Clarity
+Component names, variants, states, and usage guidance should be understandable to both designers and developers.
+
+### 4. Delight
+Soft motion, floral color, and rounded forms can add personality without interfering with task completion.
+
+### 5. Scalability
+Patterns should work across multiple screens and responsive breakpoints rather than being optimized for one mockup.
 
 ---
 
 ## 🌹 System Architecture
+
+```
+Blossom UI
+├── Foundations
+│   ├── Color
+│   ├── Typography
+│   ├── Spacing
+│   ├── Radius
+│   ├── Elevation
+│   ├── Grid
+│   └── Motion
+├── Tokens / Variables
+│   ├── Primitive tokens
+│   ├── Semantic tokens
+│   └── Component tokens
+├── Components
+│   ├── Actions
+│   ├── Inputs
+│   ├── Navigation
+│   ├── Feedback
+│   └── Content
+├── Patterns
+│   ├── Forms
+│   ├── Dialog flows
+│   ├── Empty states
+│   └── Data / settings layouts
+└── Example Products
+    ├── Responsive web screen
+    └── Mobile screen
+```
+
+---
+
+## 🎨 Planned Foundations
+
+| Foundation | Direction |
+|---|---|
+| **Color** | Blush · cream · lavender · sage with semantic status roles |
+| **Typography** | Expressive headings + highly readable UI/body text |
+| **Spacing** | Predictable scale rather than screen-specific values |
+| **Radius** | Soft rounded hierarchy with limited tiers |
+| **Elevation** | Subtle elevation used to explain layer and interaction |
+| **Grid** | Responsive layout rules for desktop, tablet, and mobile |
+| **Motion** | Short functional transitions + reduced-motion alternatives |
+
+---
+
+## 🧩 Component Philosophy
+
+Every production-ready component should define:
+
+- Anatomy
+- Variants
+- Sizes
+- Interaction states
+- Responsive behavior
+- Accessibility behavior
+- Content guidance
+- When to use / when not to use
+- Developer notes
+
+See [COMPONENT_INVENTORY.md](./COMPONENT_INVENTORY.md).
+
+---
+
+## 🌺 Planned Example Screens
+
+The system will be demonstrated in context rather than only as isolated components.
+
+### Responsive web
+A lightweight account / workspace settings experience using:
+- Navigation
+- Form controls
+- Cards
+- Tabs
+- Feedback messages
+- Dialogs
+
+### Mobile
+A companion settings or profile flow using the same design language and semantic tokens.
+
+These screens should prove that the system scales beyond a component specimen page.
+
+---
+
+## ♿ Accessibility
+
+Blossom UI will be **designed and evaluated against relevant WCAG 2.2 AA criteria**.
+
+Accessibility documentation includes:
+- Color and non-text contrast
+- Keyboard behavior
+- Focus states
+- Labels / accessible names
+- Error messaging
+- Target sizing
+- Motion preferences
+- Non-color status indicators
+
+➡️ [Read Accessibility Guidelines](./ACCESSIBILITY.md)
+
+---
+
+## 💻 Developer Handoff
+
+The project includes a handoff specification covering:
+- Token naming
+- Component naming
+- Variant/state mapping
+- Responsive behavior
+- Interaction notes
+- Accessibility requirements
+- Suggested Storybook parity
+
+➡️ [Read Developer Handoff](./HANDOFF.md)
+
+---
+
+## 🖼️ Portfolio Asset Status
+
+Visual artifacts do not exist yet. The repository now uses an explicit checklist for the Figma exports that should be created.
+
+➡️ [See Visual Asset Checklist](./assets/README.md)
+
+---
+
+## 🌸 What This Case Study Should Prove
+
+When complete, Blossom UI should show that I can create more than attractive screens: I can define a **reusable interface language**, document its logic, account for accessibility, and prepare components for collaborative design-to-development workflows.
