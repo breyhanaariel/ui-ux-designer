@@ -1,11 +1,13 @@
 # 🌸 Blossom UI — Modular Design System
 ### **Design Systems · Components · Accessibility · Developer Handoff**
 
+![Blossom UI Design System](./assets/hero.png)
+
 **Blossom UI** is a feminine, floral-inspired design system concept for responsive web and mobile products.
 
 The goal is to demonstrate that a soft, expressive visual language can still be **systematic, scalable, accessible, and implementation-ready**.
 
-🌷 **Figma Library:** *Link to be added after the library is created*  
+🌷 **Figma Library:** [View Blossom UI](https://www.figma.com/design/CpSMZrgQWTAxjiks0OKxST?node-id=1-59)  
 📘 [Design System Specification](./DESIGN_SYSTEM_SPEC.md)  
 🧩 [Component Inventory](./COMPONENT_INVENTORY.md)  
 ♿ [Accessibility Guidelines](./ACCESSIBILITY.md)  
