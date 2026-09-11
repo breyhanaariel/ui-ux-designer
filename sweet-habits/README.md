@@ -1,134 +1,146 @@
-# 🍓 Sweet Habits  
-**Mobile Habit Tracker · UI/UX Redesign Case Study**
+# 🍓 Sweet Habits
+### **Mobile Habit Tracker · UI/UX Redesign Case Study**
 
-**Sweet Habits** is a pastel-themed mobile habit tracker redesigned to make habit formation **more intuitive, inclusive, and emotionally supportive**.  
-This case study demonstrates my **end-to-end UI/UX redesign process** — from research & problem framing to prototyping, testing, visual design, and handoff.
+**Sweet Habits** is a cozy mobile habit-tracking concept exploring how routine-building can feel **encouraging, focused, and emotionally supportive** instead of clinical or overwhelming.
 
-🔗 **Live Prototype (Figma or Framer)** — *Add Link*  
-💻 **GitHub Repo** — https://github.com/breyhanaariel/ui-ux-designer/sweet-habits  
-📄 **Full Case Study (PDF)** — *Coming Soon*
+This project is being developed as an **independent portfolio case study**. Research findings, usability results, and outcomes will only be presented as measured results after real testing is completed.
 
----
-
-## 🧠 Why a Redesign?
-
-Through interviews & usability tests, I identified key user pain points:
-
-| Problem Identified | User Feedback |
-|--------------------|----------------|
-| UI felt “too serious” or “clinical” | “I want motivation, not pressure.” |
-| Feature overload led to abandonment | “I don’t need 20 options — just help me stay consistent.” |
-| Lack of emotional connection | “I wish it felt more positive — like someone cheering for me.” |
-
-> **Design Insight:** People stick to habits when the experience feels *comforting, light-hearted,* and *encouraging* — not like a task.
+🎀 **Prototype:** *Figma or Framer link to be added*  
+📄 [Full Case Study](./Figma_Case_Study.md)  
+🧠 [UX Documentation](./UX_Documentation.md)  
+✨ [Prototype Specification](./Interactive_Prototype.md)  
+🖼️ [Visual Asset Checklist](./assets/README.md)
 
 ---
 
-## 🎯 Redesign Goals
+## 🌷 Project Snapshot
 
-- 🍓 Increase **habit consistency** using positive reinforcement  
-- 🍯 Create a **visually calming experience** via pastel gradients & soft UI  
-- ♿ Ensure usability with **WCAG 2.2 accessibility compliance**  
-- 🪄 Use **microinteractions & motion** to build emotional engagement  
-
----
-
-## 🧪 UX Research Methods
-
-| Method | Purpose | Output |
-|--------|--------|--------|
-| Surveys | Identify motivation patterns | Top feature priorities |
-| Competitor Audit | Compare usability & tone | Opportunity gaps |
-| Persona Creation | Understand user mindset | Behavioral insights |
-| Usability Testing | Validate redesign flow | Iterated based on real feedback |
+| | |
+|---|---|
+| **Role** | UI/UX Designer |
+| **Project Type** | Independent product redesign case study |
+| **Platform** | Mobile |
+| **Status** | In progress |
+| **Primary Tools** | Figma · FigJam · Maze |
+| **Focus** | Habit creation · Daily tracking · Progress feedback · Accessibility |
 
 ---
 
-## 📌 Case Study Structure
+## 🎯 Design Challenge
 
-✔ Problem Definition  
-✔ Research Insights & Personas  
-✔ Information Architecture  
-✔ Wireframes & User Flows  
-✔ UI Design System  
-✔ High-Fidelity Prototype  
-✔ Usability Testing  
-✔ Developer Handoff  
+Many habit-tracking products are feature-dense and productivity-oriented. Sweet Habits explores a different question:
 
-_All design files & visuals are organized in this repo._
+> **How might a habit tracker make the essential actions simple while still giving users warm, motivating feedback?**
 
----
-
-## 🛠 Tools & Software
-
-#### 🎨 Design  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
-
-#### 🧠 Research & Testing  
-![Maze](https://img.shields.io/badge/Maze-191919?style=flat&logo=googleanalytics&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-![FigJam](https://img.shields.io/badge/FigJam-F24E1E?style=flat&logo=figma&logoColor=white)
-![Google Forms](https://img.shields.io/badge/Google%20Forms-673AB7?style=flat&logo=googleforms&logoColor=white)
-
-#### 🧩 Collaboration & Handoff  
-![Zeplin](https://img.shields.io/badge/Zeplin-FCBF49?style=flat&logo=sketch&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
-![Loom](https://img.shields.io/badge/Loom-625DF5?style=flat&logo=loom&logoColor=white)
+The project intentionally focuses on a small set of core jobs:
+1. Understand today's habits.
+2. Add or edit a habit quickly.
+3. Mark progress without friction.
+4. Understand longer-term progress.
+5. Receive encouraging feedback without creating pressure.
 
 ---
 
-## 🎨 Visual Language & Design System
+## 🍰 Product Principles
 
-| Element | Description |
-|---------|-------------|
-| Colors | Pastel tones: blush pink, lavender, mint |
-| Typography | Rounded Sans Serif (Poppins / Nunito) |
-| Components | Buttons, Inputs, Modals, Cards |
-| Motion | Soft ease-in animations & hover states |
-
-> **Goal:** Create a scalable, gentle, emotionally supportive design system.
+- **Simple before clever** — prioritize the primary habit flow over feature quantity.
+- **Encouraging, not punitive** — avoid shame-based streak language.
+- **Delight with purpose** — motion and mascots should reinforce system feedback.
+- **Accessible by design** — color, motion, hierarchy, labels, and touch targets are considered from the beginning.
+- **Calm visual density** — use whitespace and progressive disclosure instead of crowding screens.
 
 ---
 
-## 💡 Key Skills Demonstrated
+## 🗺️ Planned Core Flow
 
-| Skill Area | Applied In This Project |
-|-------------|-------------------------|
-| UX Research & Personas | Surveys + interviews |
-| Information Architecture | Simplified flows & navigation |
-| UI Design System | Components, spacing, branding |
-| Prototyping & Interaction | Smart Animate + motion design |
-| Accessibility | WCAG 2.2 compliance |
-| Developer Handoff | Structured Figma components |
+`Home → Add Habit → Configure Habit → Save → Complete Habit → Celebration / Feedback → Progress`
 
----
-
-## 📈 Outcome & Results
-
-✔ **60% increase** in user intent to complete habits  
-✔ Users described the redesign as:  
-> “Gentle, calming, relaxing to use.”  
-> “This motivates me instead of stressing me out.”  
-
-✔ Strong potential for **gamification & streak features**  
-✔ Prototype is ready for **MVP testing & A/B validation**
+Secondary flows to document:
+- Edit / pause a habit
+- Recover from a missed day
+- Change reminder settings
+- Review weekly progress
+- Enable reduced motion
 
 ---
 
-## 📌 Next Steps
+## 🧪 Research & Testing Status
 
-- Add dark mode & motion settings  
-- Explore gamified rewards (stickers / mascots)  
-- Begin MVP usability testing round 2  
-- Prepare for handoff to development sprint
+No user-testing statistics are claimed yet.
+
+The case study includes a research and testing plan so that future findings can be documented honestly.
+
+### Planned methods
+- Lightweight competitive audit
+- Short user interviews
+- Task-based usability testing
+- Post-task satisfaction questions
+- Affinity mapping of qualitative feedback
+
+### Planned usability tasks
+- Add a new daily habit.
+- Set a reminder.
+- Complete today's habit.
+- Find weekly progress.
+- Edit an existing habit.
+
+See [UX_Documentation.md](./UX_Documentation.md) for the full plan.
 
 ---
 
-## 💻 (Optional) Run Coded Prototype Locally
+## 🎨 Planned Deliverables
 
-```bash
-git clone https://github.com/breyhanaariel/ui-ux-designer/sweet-habits.git
-cd sweet-habits
-npm install
-npm start
+- Problem statement and project constraints
+- Competitive observations
+- Research plan
+- Primary user flow
+- Low-fidelity wireframes
+- Exploration / iteration screens
+- Mobile UI foundations
+- High-fidelity key screens
+- Interactive prototype
+- Accessibility annotations
+- Usability test plan + real findings when completed
+- Developer handoff notes
+
+---
+
+## 🌈 Visual Direction
+
+| Element | Direction |
+|---|---|
+| **Color** | Blush pink · lavender · mint · cream |
+| **Typography** | Friendly rounded sans serif with strong readability |
+| **Shape Language** | Rounded cards and controls |
+| **Illustration** | Small mascot moments used as feedback, not decoration-only |
+| **Motion** | Gentle, short transitions with a reduced-motion alternative |
+| **Tone** | Kind · cozy · clear · encouraging |
+
+---
+
+## ♿ Accessibility Approach
+
+Sweet Habits will be **designed and evaluated against relevant WCAG 2.2 AA criteria** rather than presented as certified compliant.
+
+Planned checks include:
+- Text and UI contrast
+- Touch target sizing
+- Clear labels and error messaging
+- Logical focus order annotations
+- Reduced-motion behavior
+- Text scaling resilience
+- Non-color indicators for status and progress
+
+---
+
+## 🧁 Portfolio Asset Status
+
+The visual files do not exist yet, so the repository now uses an explicit asset checklist instead of presenting placeholders as finished work.
+
+➡️ [See the required visual assets and filenames](./assets/README.md)
+
+---
+
+## 💌 What This Case Study Should Prove
+
+When complete, Sweet Habits should show that I can take a consumer-mobile problem from **problem framing → UX structure → UI exploration → interactive prototype → validation → handoff** while preserving a distinctive emotional brand.
