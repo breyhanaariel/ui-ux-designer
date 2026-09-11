@@ -2,6 +2,8 @@
 
 ### **UI/UX Designer · Product Design · Design Systems**
 
+![Portfolio Preview](./assets/portfolio-cover.png)
+
 I design thoughtful, accessible web and mobile experiences from **research and information architecture** through **high-fidelity UI, prototyping, testing, and developer handoff**.
 
 🕓 **Open to full-time remote roles**  
@@ -28,7 +30,7 @@ A cozy habit-tracking redesign focused on reducing friction and making routine-b
 - Usability testing plan and developer handoff
 
 🔗 [View Case Study](./sweet-habits/README.md)  
-🎀 **Prototype:** *Figma/Framer link to be added after prototype is created*
+🎨 **Figma:** [View Sweet Habits design](https://www.figma.com/design/CpSMZrgQWTAxjiks0OKxST?node-id=1-32)
 
 ---
 
@@ -46,7 +48,7 @@ A feminine, floral-inspired design system for responsive web and mobile products
 - Figma Dev Mode / Storybook-ready handoff thinking
 
 🔗 [View Design System Case Study](./blossom-ui/README.md)  
-🌷 **Figma Library:** *Link to be added after the library is created*
+🌷 **Figma Library:** [View Blossom UI](https://www.figma.com/design/CpSMZrgQWTAxjiks0OKxST?node-id=1-59)
 
 ---
 
@@ -64,7 +66,7 @@ A responsive operations workspace for small creative agencies managing clients, 
 - Design-to-code thinking with a planned React/TypeScript prototype
 
 🔗 [View Case Study](./honeycomb-hq/README.md)  
-🐝 **Coded Prototype:** *Deployment link to be added after implementation*
+🎨 **Figma:** [View Honeycomb HQ](https://www.figma.com/design/CpSMZrgQWTAxjiks0OKxST?node-id=1-93)
 
 ---
 
@@ -120,4 +122,4 @@ I am currently seeking a **full-time remote UI/UX or Product Design position** a
 
 If you are looking for a designer who enjoys combining thoughtful UX structure with expressive visual systems, I would love to connect.
 
-[LinkedIn](https://www.linkedin.com/in/brianna-dickenson-9555515b) · [Email Me](mailto:breyhanadickenson@gmail.com?subject=Interested%20in%20Working%20With%20You)
+[🎨 Figma Portfolio](https://www.figma.com/design/CpSMZrgQWTAxjiks0OKxST) · [LinkedIn](https://www.linkedin.com/in/brianna-dickenson-9555515b) · [Email Me](mailto:breyhanadickenson@gmail.com?subject=Interested%20in%20Working%20With%20You)
