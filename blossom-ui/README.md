@@ -106,6 +106,8 @@ Blossom UI
 
 ## 🧩 Component Philosophy
 
+![Blossom UI button component set](./assets/components.png)
+
 Every production-ready component should define:
 
 - Anatomy
