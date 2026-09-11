@@ -130,4 +130,8 @@ Required:
 
 ## 🌷 Deployment
 
-`vercel.json` is committed at the repository root and routes all portfolio paths to the static application. A real public URL will be added only after the Vercel account connection authorizes publication.
+`vercel.json` is committed at the repository root and routes all portfolio paths to the static application.
+
+🌐 **Production prototype:** https://ui-ux-designer-psi.vercel.app/honeycomb-hq/
+
+The production deployment has been verified as `READY` on Vercel.
