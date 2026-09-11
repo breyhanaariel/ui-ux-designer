@@ -1,11 +1,13 @@
 # 🍓 Sweet Habits
 ### **Mobile Habit Tracker · UI/UX Redesign Case Study**
 
+![Sweet Habits UI](./assets/hero.png)
+
 **Sweet Habits** is a cozy mobile habit-tracking concept exploring how routine-building can feel **encouraging, focused, and emotionally supportive** instead of clinical or overwhelming.
 
 This project is being developed as an **independent portfolio case study**. Research findings, usability results, and outcomes will only be presented as measured results after real testing is completed.
 
-🎀 **Prototype:** *Figma or Framer link to be added*  
+🎨 **Figma Design:** [View Sweet Habits](https://www.figma.com/design/CpSMZrgQWTAxjiks0OKxST?node-id=1-32)  
 📄 [Full Case Study](./Figma_Case_Study.md)  
 🧠 [UX Documentation](./UX_Documentation.md)  
 ✨ [Prototype Specification](./Interactive_Prototype.md)  
