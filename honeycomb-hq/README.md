@@ -7,7 +7,7 @@
 
 The project is intentionally more structured and data-dense than my consumer work. Its goal is to demonstrate how I approach **complex workflows, information hierarchy, responsive product UI, error prevention, accessibility, and design-to-development handoff**.
 
-🐝 **Coded Prototype:** *Public deployment is configured via GitHub Pages*  
+💻 **Coded Prototype:** Implemented in `site/index.html`; public Vercel publish is the remaining hosting step  
 🎨 **Figma:** [View Honeycomb HQ](https://www.figma.com/design/CpSMZrgQWTAxjiks0OKxST?node-id=1-93)  
 📄 [Full UX Case Study](./UX_CASE_STUDY.md)  
 📋 [Product Requirements](./PRODUCT_REQUIREMENTS.md)  
@@ -27,8 +27,8 @@ The project is intentionally more structured and data-dense than my consumer wor
 | **Project Type** | Independent B2B SaaS case study |
 | **Platform** | Responsive web |
 | **Status** | UX / UI structure in progress |
-| **Prototype Goal** | Coded interactive front end |
-| **Planned Stack** | React · TypeScript · Tailwind CSS |
+| **Prototype** | Working interactive front end |
+| **Implementation** | Dependency-free HTML · CSS · JavaScript |
 | **Primary Users** | Small creative-agency owners, project managers, account leads |
 | **Focus** | Prioritization · Dense data · Workflow states · Responsive behavior · Accessibility |
 
@@ -117,7 +117,13 @@ Honeycomb HQ should deliberately contrast with Sweet Habits and Blossom UI.
 
 ---
 
+## 🖥️ Implemented Dashboard
+
+![Honeycomb HQ desktop dashboard](./assets/desktop-dashboard.png)
+
 ## 📱 Responsive Strategy
+
+![Honeycomb HQ mobile priority view](./assets/mobile-view.png)
 
 ### Desktop
 Full navigation, tables, dashboards, side panels, multi-column layouts.
@@ -169,19 +175,19 @@ Real findings will replace assumptions in the case study as they are collected.
 
 ## 💻 Coded Prototype Scope
 
-The coded prototype should eventually include realistic mock data and working interactions for:
+The coded prototype now includes realistic mock data and working interactions for:
 
 - Responsive app shell
 - Dashboard priority feed
 - Projects table
-- Search / filter / sort
-- Project detail
-- Approval workflow
-- Invoice status workflow
-- Responsive mobile views
-- Forms and validation
+- Search and health filtering
+- Project detail modal
+- Approval count interaction
+- Invoice follow-up state
+- Responsive mobile transformation
+- Create-project form
 - Dialogs / confirmations
-- Loading / empty / error states
+- Empty filtered state
 - Keyboard-visible focus behavior
 
 See [PROTOTYPE_BUILD.md](./PROTOTYPE_BUILD.md).
