@@ -7,14 +7,15 @@
 
 The project is intentionally more structured and data-dense than my consumer work. Its goal is to demonstrate how I approach **complex workflows, information hierarchy, responsive product UI, error prevention, accessibility, and design-to-development handoff**.
 
-💻 **Coded Prototype:** Implemented in `site/index.html`; public Vercel publish is the remaining hosting step  
+🌐 **Live Prototype:** [Explore Honeycomb HQ](https://ui-ux-designer-psi.vercel.app/honeycomb-hq/)  
+💻 **Coded Prototype:** Implemented in `site/index.html`  
 🎨 **Figma:** [View Honeycomb HQ](https://www.figma.com/design/CpSMZrgQWTAxjiks0OKxST?node-id=1-93)  
 📄 [Full UX Case Study](./UX_CASE_STUDY.md)  
 📋 [Product Requirements](./PRODUCT_REQUIREMENTS.md)  
 🗺️ [Flows & Information Architecture](./FLOWS_AND_IA.md)  
 ✨ [Interaction Specification](./INTERACTION_SPEC.md)  
 ♿ [Accessibility](./ACCESSIBILITY.md)  
-💻 [Coded Prototype Plan](./PROTOTYPE_BUILD.md)  
+💻 [Coded Prototype Implementation](./PROTOTYPE_BUILD.md)  
 🖼️ [Visual Asset Checklist](./assets/README.md)
 
 ---
@@ -26,7 +27,7 @@ The project is intentionally more structured and data-dense than my consumer wor
 | **Role** | Product Designer / UI/UX Designer |
 | **Project Type** | Independent B2B SaaS case study |
 | **Platform** | Responsive web |
-| **Status** | UX / UI structure in progress |
+| **Status** | Interactive prototype complete · Research validation planned |
 | **Prototype** | Working interactive front end |
 | **Implementation** | Dependency-free HTML · CSS · JavaScript |
 | **Primary Users** | Small creative-agency owners, project managers, account leads |
@@ -194,6 +195,6 @@ See [PROTOTYPE_BUILD.md](./PROTOTYPE_BUILD.md).
 
 ---
 
-## 🌼 What This Case Study Should Prove
+## 🌼 What This Case Study Demonstrates
 
-When complete, Honeycomb HQ should demonstrate that I can design a **serious, responsive B2B SaaS product** with complex information, interconnected workflows, system states, accessibility considerations, and an implementation-ready interactive prototype.
+Honeycomb HQ demonstrates that I can design a **serious, responsive B2B SaaS product** with complex information, interconnected workflows, system states, accessibility considerations, and a working implementation-ready interactive prototype. Real user-testing findings remain intentionally separate until validation is completed.
