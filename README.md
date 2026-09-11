@@ -12,6 +12,8 @@ I design thoughtful, accessible web and mobile experiences from **research and i
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianna-dickenson-9555515b)
 [![Gmail](https://img.shields.io/badge/Email%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:breyhanadickenson@gmail.com?subject=Interested%20in%20Working%20With%20You)
 
+🌐 **[View Live Portfolio](https://ui-ux-designer-psi.vercel.app/)**
+
 ---
 
 ## 🌷 Featured Work
@@ -29,6 +31,7 @@ A cozy habit-tracking redesign focused on reducing friction and making routine-b
 - Microinteractions and reduced-motion considerations
 - Usability testing plan and developer handoff
 
+🌐 **[Live Prototype](https://ui-ux-designer-psi.vercel.app/sweet-habits/)**  
 🔗 [View Case Study](./sweet-habits/README.md)  
 🎨 **Figma:** [View Sweet Habits design](https://www.figma.com/design/CpSMZrgQWTAxjiks0OKxST?node-id=1-32)
 
@@ -37,7 +40,7 @@ A cozy habit-tracking redesign focused on reducing friction and making routine-b
 ### 🌸 Blossom UI — Modular Design System
 **Design Systems · Components · Accessibility · Developer Handoff**
 
-A feminine, floral-inspired design system for responsive web and mobile products. Blossom UI is being built to demonstrate how a distinctive visual language can remain consistent, scalable, accessible, and developer-friendly.
+A feminine, floral-inspired design system for responsive web and mobile products, demonstrating how a distinctive visual language can remain consistent, scalable, accessible, and developer-friendly.
 
 **What it demonstrates**
 - Design tokens and variables
@@ -47,6 +50,7 @@ A feminine, floral-inspired design system for responsive web and mobile products
 - Documentation and usage guidance
 - Figma Dev Mode / Storybook-ready handoff thinking
 
+🌐 **[Live Design System](https://ui-ux-designer-psi.vercel.app/blossom-ui/)**  
 🔗 [View Design System Case Study](./blossom-ui/README.md)  
 🌷 **Figma Library:** [View Blossom UI](https://www.figma.com/design/CpSMZrgQWTAxjiks0OKxST?node-id=1-59)
 
@@ -65,6 +69,7 @@ A responsive operations workspace for small creative agencies managing clients, 
 - Error prevention and accessibility
 - Design-to-code thinking with a working interactive prototype
 
+🌐 **[Live Prototype](https://ui-ux-designer-psi.vercel.app/honeycomb-hq/)**  
 🔗 [View Case Study](./honeycomb-hq/README.md)  
 🎨 **Figma:** [View Honeycomb HQ](https://www.figma.com/design/CpSMZrgQWTAxjiks0OKxST?node-id=1-93)
 
@@ -122,4 +127,4 @@ I am currently seeking a **full-time remote UI/UX or Product Design position** a
 
 If you are looking for a designer who enjoys combining thoughtful UX structure with expressive visual systems, I would love to connect.
 
-[🎨 Figma Portfolio](https://www.figma.com/design/CpSMZrgQWTAxjiks0OKxST) · [LinkedIn](https://www.linkedin.com/in/brianna-dickenson-9555515b) · [Email Me](mailto:breyhanadickenson@gmail.com?subject=Interested%20in%20Working%20With%20You)
+[🌐 Live Portfolio](https://ui-ux-designer-psi.vercel.app/) · [🎨 Figma Portfolio](https://www.figma.com/design/CpSMZrgQWTAxjiks0OKxST) · [LinkedIn](https://www.linkedin.com/in/brianna-dickenson-9555515b) · [Email Me](mailto:breyhanadickenson@gmail.com?subject=Interested%20in%20Working%20With%20You)
