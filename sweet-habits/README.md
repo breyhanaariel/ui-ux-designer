@@ -7,6 +7,7 @@
 
 This project is being developed as an **independent portfolio case study**. Research findings, usability results, and outcomes will only be presented as measured results after real testing is completed.
 
+🌐 **Live Prototype:** [Try Sweet Habits](https://ui-ux-designer-psi.vercel.app/sweet-habits/)  
 🎨 **Figma Design:** [View Sweet Habits](https://www.figma.com/design/CpSMZrgQWTAxjiks0OKxST?node-id=1-32)  
 📄 [Full Case Study](./Figma_Case_Study.md)  
 🧠 [UX Documentation](./UX_Documentation.md)  
@@ -22,7 +23,7 @@ This project is being developed as an **independent portfolio case study**. Rese
 | **Role** | UI/UX Designer |
 | **Project Type** | Independent product redesign case study |
 | **Platform** | Mobile |
-| **Status** | In progress |
+| **Status** | Interactive design + coded prototype complete · Research validation planned |
 | **Primary Tools** | Figma · FigJam · Maze |
 | **Focus** | Habit creation · Daily tracking · Progress feedback · Accessibility |
 
@@ -137,12 +138,12 @@ Planned checks include:
 
 ## 🧁 Portfolio Asset Status
 
-The visual files do not exist yet, so the repository now uses an explicit asset checklist instead of presenting placeholders as finished work.
+Core portfolio visuals now exist in `assets/`, including the hero and final UI presentation. The asset checklist remains as a roadmap for optional deeper case-study exports.
 
-➡️ [See the required visual assets and filenames](./assets/README.md)
+➡️ [See the visual asset checklist](./assets/README.md)
 
 ---
 
-## 💌 What This Case Study Should Prove
+## 💌 What This Case Study Demonstrates
 
-When complete, Sweet Habits should show that I can take a consumer-mobile problem from **problem framing → UX structure → UI exploration → interactive prototype → validation → handoff** while preserving a distinctive emotional brand.
+Sweet Habits demonstrates a consumer-mobile workflow from **problem framing → UX structure → UI exploration → interactive prototype → accessibility-minded implementation** while preserving a distinctive emotional brand. Real user-testing findings remain intentionally separate until research is completed.
