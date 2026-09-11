@@ -7,6 +7,7 @@
 
 The goal is to demonstrate that a soft, expressive visual language can still be **systematic, scalable, accessible, and implementation-ready**.
 
+🌐 **Live Design System:** [Explore Blossom UI](https://ui-ux-designer-psi.vercel.app/blossom-ui/)  
 🌷 **Figma Library:** [View Blossom UI](https://www.figma.com/design/CpSMZrgQWTAxjiks0OKxST?node-id=1-59)  
 📘 [Design System Specification](./DESIGN_SYSTEM_SPEC.md)  
 🧩 [Component Inventory](./COMPONENT_INVENTORY.md)  
@@ -23,7 +24,7 @@ The goal is to demonstrate that a soft, expressive visual language can still be 
 | **Role** | UI/UX Designer / Design System Designer |
 | **Project Type** | Independent design-system case study |
 | **Platforms** | Responsive web + mobile |
-| **Status** | In progress |
+| **Status** | Figma foundations/components + coded interactive showcase complete |
 | **Primary Tool** | Figma |
 | **Focus** | Tokens · Components · States · Documentation · Accessibility · Handoff |
 
@@ -179,12 +180,12 @@ The project includes a handoff specification covering:
 
 ## 🖼️ Portfolio Asset Status
 
-Visual artifacts do not exist yet. The repository now uses an explicit checklist for the Figma exports that should be created.
+Core visual artifacts now exist in `assets/`, including the design-system hero and component presentation. The checklist remains available for future expansion.
 
 ➡️ [See Visual Asset Checklist](./assets/README.md)
 
 ---
 
-## 🌸 What This Case Study Should Prove
+## 🌸 What This Case Study Demonstrates
 
-When complete, Blossom UI should show that I can create more than attractive screens: I can define a **reusable interface language**, document its logic, account for accessibility, and prepare components for collaborative design-to-development workflows.
+Blossom UI demonstrates that I can create more than attractive screens: I can define a **reusable interface language**, document its logic, account for accessibility, and translate design-system thinking into an interactive coded showcase.
