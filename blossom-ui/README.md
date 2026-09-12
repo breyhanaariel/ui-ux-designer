@@ -8,7 +8,7 @@
 The goal is to demonstrate that a soft, expressive visual language can still be **systematic, scalable, accessible, and implementation-ready**.
 
 🌐 **Live Design System:** [Explore Blossom UI](https://ui-ux-designer-psi.vercel.app/blossom-ui/)  
-🌷 **Figma Library:** [View Blossom UI](https://www.figma.com/design/CpSMZrgQWTAxjiks0OKxST?node-id=1-59)  
+🌷 **Figma Library:** [View Blossom UI](https://www.figma.com/design/3BObCtX2MJOLX0rZgTg1Vn?node-id=1-43)  
 📘 [Design System Specification](./DESIGN_SYSTEM_SPEC.md)  
 🧩 [Component Inventory](./COMPONENT_INVENTORY.md)  
 ♿ [Accessibility Guidelines](./ACCESSIBILITY.md)  
