@@ -6,6 +6,12 @@
 
 ---
 
+## ✅ Implemented in Code
+
+The live coded prototype now covers all six required prototype flows in this specification: onboarding, habit creation with reminders, completion feedback, weekly progress, habit editing, and reduced motion. It also demonstrates loading, error, empty, success, disabled and validation states using local mock state.
+
+---
+
 ## 💕 Prototype Goal
 
 The prototype should demonstrate the **core behavioral loop** of Sweet Habits rather than trying to simulate every possible feature.
