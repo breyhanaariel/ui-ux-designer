@@ -8,7 +8,7 @@
 This project is being developed as an **independent portfolio case study**. Research findings, usability results, and outcomes will only be presented as measured results after real testing is completed.
 
 🌐 **Live Prototype:** [Try Sweet Habits](https://ui-ux-designer-psi.vercel.app/sweet-habits/)  
-🎨 **Figma Design:** [View Sweet Habits](https://www.figma.com/design/CpSMZrgQWTAxjiks0OKxST?node-id=1-32)  
+🎨 **Figma Design:** [View Sweet Habits](https://www.figma.com/design/3BObCtX2MJOLX0rZgTg1Vn?node-id=1-16)  
 📄 [Full Case Study](./Figma_Case_Study.md)  
 🧠 [UX Documentation](./UX_Documentation.md)  
 ✨ [Prototype Specification](./Interactive_Prototype.md)  
