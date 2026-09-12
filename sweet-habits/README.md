@@ -23,7 +23,7 @@ This project is being developed as an **independent portfolio case study**. Rese
 | **Role** | UI/UX Designer |
 | **Project Type** | Independent product redesign case study |
 | **Platform** | Mobile |
-| **Status** | Interactive design + coded prototype complete · Research validation planned |
+| **Status** | Documented coded prototype flows complete · Research validation planned |
 | **Primary Tools** | Figma · FigJam · Maze |
 | **Focus** | Habit creation · Daily tracking · Progress feedback · Accessibility |
 
@@ -64,6 +64,24 @@ Secondary flows to document:
 - Change reminder settings
 - Review weekly progress
 - Enable reduced motion
+
+---
+
+## 💻 Coded Scope Status
+
+The live prototype now implements the documented interactive flows that can be completed in code:
+- First-time onboarding / optional setup
+- Add habit with frequency and reminder
+- Complete and un-complete habits
+- Weekly progress view
+- Habit detail and edit
+- Pause / resume habit
+- Missed-day recovery
+- Settings and reduced-motion preference
+- Form validation
+- Loading, error, empty, success, disabled and recovery states
+
+The remaining unfinished work in this case study is primarily **real research/testing evidence, design-process artifacts, and additional Figma presentation exports**.
 
 ---
 
