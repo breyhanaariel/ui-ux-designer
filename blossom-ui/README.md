@@ -24,9 +24,25 @@ The goal is to demonstrate that a soft, expressive visual language can still be 
 | **Role** | UI/UX Designer / Design System Designer |
 | **Project Type** | Independent design-system case study |
 | **Platforms** | Responsive web + mobile |
-| **Status** | Figma foundations/components + coded interactive showcase complete |
+| **Status** | Coded Tier 1 component showcase complete · Figma library expansion remains |
 | **Primary Tool** | Figma |
 | **Focus** | Tokens · Components · States · Documentation · Accessibility · Handoff |
+
+---
+
+## 💻 Coded Scope Status
+
+The live design-system site now implements the documented Tier 1 component categories in code:
+- Actions: Button, Icon Button, Link
+- Inputs: Text Field, Text Area, Select, Checkbox, Radio, Switch
+- Navigation: Tabs, Breadcrumbs, Top Navigation, Mobile Navigation
+- Feedback: Alert, Toast, Progress / Spinner, Tooltip
+- Overlays: Dialog, Popover / Menu
+- Content: Card, Badge, Avatar, Divider
+- Pattern examples: sign-in form, settings form, confirmation dialog, empty/error/success states, responsive navigation
+- Foundation demonstrations for color, typography, spacing, radius, elevation and motion
+
+The remaining Blossom work is primarily **expanding the native Figma library/tokens to match the coded breadth and creating the full case-study export set**.
 
 ---
 
