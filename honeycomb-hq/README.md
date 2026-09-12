@@ -27,11 +27,30 @@ The project is intentionally more structured and data-dense than my consumer wor
 | **Role** | Product Designer / UI/UX Designer |
 | **Project Type** | Independent B2B SaaS case study |
 | **Platform** | Responsive web |
-| **Status** | Interactive prototype complete · Research validation planned |
+| **Status** | Documented coded MVP workflows complete · Research validation planned |
 | **Prototype** | Working interactive front end |
 | **Implementation** | Dependency-free HTML · CSS · JavaScript |
 | **Primary Users** | Small creative-agency owners, project managers, account leads |
 | **Focus** | Prioritization · Dense data · Workflow states · Responsive behavior · Accessibility |
+
+---
+
+## 💻 Coded Scope Status
+
+The live prototype now implements the code-able MVP workflows described across the product requirements and interaction specifications:
+- Functional Overview, Projects, Clients, Approvals, Team, Billing, Activity and Settings views
+- Global grouped search and notification read state
+- Project search, health filters, sorting, detail, metadata editing and archive confirmation
+- Multi-step Create Project flow with basics, dates/milestone, team and review
+- Approval queue, reminder recording, approve/reject and project-state updates
+- Team capacity, person detail and mock work reassignment
+- Invoice filters, detail, follow-up recording and mock status changes
+- Activity log updates from prototype actions
+- Mobile-priority navigation
+- Empty, loading/search, permission, offline/stale-state examples
+- Keyboard/focus, dialog and reduced-motion behaviors
+
+The remaining unfinished work is primarily **real user research/testing, deeper Figma case-study artifacts, and non-MVP production infrastructure that the documentation explicitly lists as out of scope**.
 
 ---
 
