@@ -183,7 +183,7 @@ The interactive prototype should demonstrate:
 - Edit habit
 - Reduced-motion alternative
 
-🎨 **Figma design:** [View Sweet Habits](https://www.figma.com/design/CpSMZrgQWTAxjiks0OKxST?node-id=1-32)
+🎨 **Figma design:** [View Sweet Habits](https://www.figma.com/design/3BObCtX2MJOLX0rZgTg1Vn?node-id=1-16)
 
 See [Interactive_Prototype.md](./Interactive_Prototype.md).
 
