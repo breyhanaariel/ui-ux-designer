@@ -1,6 +1,6 @@
 # 🍯 Sweet Habits — Interactive Prototype Specification
 
-🎨 **Figma:** [View Sweet Habits](https://www.figma.com/design/CpSMZrgQWTAxjiks0OKxST?node-id=1-32)
+🎨 **Figma:** [View Sweet Habits](https://www.figma.com/design/3BObCtX2MJOLX0rZgTg1Vn?node-id=1-16)
 
 💻 **Coded prototype:** Implemented in the repository's interactive portfolio site.
 
