@@ -97,15 +97,21 @@ Do not use real client data.
 
 ## ✅ Implemented Prototype Areas
 
-- Responsive application shell
+- Responsive application shell with functional navigation
 - Dashboard attention queue
-- Projects data table
-- Search and filtering
-- Project detail interaction
-- Create-project flow
-- Approval and invoice state interactions
+- Projects data table with search, filtering and sorting
+- Project detail, metadata editing and archive confirmation
+- Multi-step create-project wizard
+- Clients directory/detail
+- Approvals queue with reminder, approve and reject actions
+- Team capacity, person detail and mock reassignment
+- Billing list/filter/detail/follow-up state
+- Activity log
+- Global grouped search
+- Notifications with read/unread state
+- Settings and permission-state example
 - Responsive table-to-card transformation
-- Empty states
+- Empty, error/stale/offline/permission state examples
 - Modal focus handling
 - Reduced-motion support
 - Keyboard interaction
