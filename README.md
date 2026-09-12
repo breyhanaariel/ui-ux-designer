@@ -6,8 +6,8 @@
 
 I design thoughtful, accessible web and mobile experiences from **research and information architecture** through **high-fidelity UI, prototyping, testing, and developer handoff**.
 
-🕓 **Open to full-time remote roles**  
-💌 **Available for short-term freelance projects**
+🕓 **Seeking Full Time Remote Position**  
+💌 **Available For Freelance**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianna-dickenson-9555515b)
 [![Gmail](https://img.shields.io/badge/Email%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:breyhanadickenson@gmail.com?subject=Interested%20in%20Working%20With%20You)
@@ -121,9 +121,24 @@ Storybook · Git · HTML · CSS · Tailwind CSS · React
 
 ---
 
+## 🌸 Explore My Work
+
+My portfolio is intentionally separated by specialty so each discipline can tell a focused story while still showing how my skills connect.
+
+- 🎀 **UI/UX Designer** — product design, research, flows, design systems, prototyping, and complex interaction design
+- 💻 [Front-End Developer](https://github.com/breyhanaariel/front-end-developer) — React, Next.js, TypeScript, APIs, testing, and accessible implementation
+- 🌐 [Web Designer](https://github.com/breyhanaariel/web-designer) — responsive websites and brand-led digital experiences for short-term client projects
+- 🎨 [Graphic Designer](https://github.com/breyhanaariel/graphic-designer) — brand identity, campaign design, marketing assets, print, and motion
+
+---
+
 ## 💌 Work With Me
 
-I am currently seeking a **full-time remote UI/UX or Product Design position** and am also available for **short-term freelance UI/UX projects**.
+### 🕓 Seeking Full Time Remote Position
+I am seeking a **full-time remote UI/UX Designer or Product Designer position** where I can contribute thoughtful product thinking, accessible interface design, design systems, and strong developer handoff.
+
+### 💌 Available For Freelance
+I am also available for **short-term UI/UX projects**, including UX audits, product flows, prototypes, interface redesigns, and design-system work.
 
 If you are looking for a designer who enjoys combining thoughtful UX structure with expressive visual systems, I would love to connect.
 
