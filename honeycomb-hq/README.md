@@ -9,7 +9,7 @@ The project is intentionally more structured and data-dense than my consumer wor
 
 🌐 **Live Prototype:** [Explore Honeycomb HQ](https://ui-ux-designer-psi.vercel.app/honeycomb-hq/)  
 💻 **Coded Prototype:** Implemented in `site/index.html`  
-🎨 **Figma:** [View Honeycomb HQ](https://www.figma.com/design/CpSMZrgQWTAxjiks0OKxST?node-id=1-93)  
+🎨 **Figma:** [View Honeycomb HQ](https://www.figma.com/design/3BObCtX2MJOLX0rZgTg1Vn?node-id=1-77)  
 📄 [Full UX Case Study](./UX_CASE_STUDY.md)  
 📋 [Product Requirements](./PRODUCT_REQUIREMENTS.md)  
 🗺️ [Flows & Information Architecture](./FLOWS_AND_IA.md)  
