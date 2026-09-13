@@ -1,6 +1,6 @@
 # 🎀 Brianna Dickenson 🎀
 
-### **UI/UX Designer · Product Design · Design Systems**
+### **UI/UX Designer | Product Design · Design Systems**
 
 ![Portfolio Preview](./assets/portfolio-cover.png)
 
@@ -16,6 +16,11 @@ I design thoughtful, accessible web and mobile experiences from **research and i
 
 ---
 
+## 🧠 Core Stack
+
+
+---
+
 ## 🌷 Featured Work
 
 ### 🍓 Sweet Habits — Mobile Product Redesign
@@ -23,7 +28,7 @@ I design thoughtful, accessible web and mobile experiences from **research and i
 
 A cozy habit-tracking redesign focused on reducing friction and making routine-building feel encouraging rather than clinical.
 
-**What it demonstrates**
+**Demonstrates:**
 - Problem framing and research planning
 - User flows and information architecture
 - Wireframing and interface iteration
