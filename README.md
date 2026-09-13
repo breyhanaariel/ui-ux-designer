@@ -14,14 +14,17 @@ I design thoughtful, accessible web and mobile experiences from **research and i
 
 💌 **Available For Freelance** [![Gmail](https://img.shields.io/badge/Email%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:breyhanadickenson@gmail.com?subject=Interested%20in%20Working%20With%20You)
 
-
-
 🌐 **[View Live Portfolio](https://ui-ux-designer-psi.vercel.app/)**
 
 ---
 
 ## 🧠 Core Stack
 
+**Product & UX:** Problem framing · User research · User flows · Information architecture · Wireframing · Usability testing · Iteration  
+**UI & Prototyping:** Figma · FigJam · High-fidelity UI · Responsive design · Interactive prototypes · Microinteractions  
+**Design Systems:** Components · Variants · Variables · Design tokens · Documentation · Usage guidelines  
+**Accessibility:** WCAG 2.2-informed design · Contrast · Focus states · Touch targets · Reduced motion  
+**Handoff & Collaboration:** Figma Dev Mode · Developer handoff · Responsive specs · Interaction notes · Storybook familiarity · Git
 
 ---
 
@@ -138,17 +141,3 @@ My portfolio is intentionally separated by specialty so each discipline can tell
 - 💻 [Front-End Developer](https://github.com/breyhanaariel/front-end-developer) — React, Next.js, TypeScript, APIs, testing, and accessible implementation
 - 🌐 [Web Designer](https://github.com/breyhanaariel/web-designer) — responsive websites and brand-led digital experiences for short-term client projects
 - 🎨 [Graphic Designer](https://github.com/breyhanaariel/graphic-designer) — brand identity, campaign design, marketing assets, print, and motion
-
----
-
-## 💌 Work With Me
-
-### 🕓 Seeking Full Time Remote Position
-I am seeking a **full-time remote UI/UX Designer or Product Designer position** where I can contribute thoughtful product thinking, accessible interface design, design systems, and strong developer handoff.
-
-### 💌 Available For Freelance
-I am also available for **short-term UI/UX projects**, including UX audits, product flows, prototypes, interface redesigns, and design-system work.
-
-If you are looking for a designer who enjoys combining thoughtful UX structure with expressive visual systems, I would love to connect.
-
-[🌐 Live Portfolio](https://ui-ux-designer-psi.vercel.app/) · [🎨 Figma Portfolio](https://www.figma.com/design/3BObCtX2MJOLX0rZgTg1Vn) · [LinkedIn](https://www.linkedin.com/in/brianna-dickenson-9555515b) · [Email Me](mailto:breyhanadickenson@gmail.com?subject=Interested%20in%20Working%20With%20You)
