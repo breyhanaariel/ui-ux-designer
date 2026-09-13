@@ -2,15 +2,19 @@
 
 ### **UI/UX Designer | Product Design · Design Systems**
 
-![Portfolio Preview](./assets/portfolio-cover.png)
-
 I design thoughtful, accessible web and mobile experiences from **research and information architecture** through **high-fidelity UI, prototyping, testing, and developer handoff**.
 
-🕓 **Seeking Full Time Remote Position**  
-💌 **Available For Freelance**
+![Portfolio Preview](./assets/portfolio-cover.png)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianna-dickenson-9555515b)
-[![Gmail](https://img.shields.io/badge/Email%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:breyhanadickenson@gmail.com?subject=Interested%20in%20Working%20With%20You)
+---
+
+## 💌 Work With Me
+
+🕓 **Seeking Full Time Remote Position**  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianna-dickenson-9555515b)
+
+💌 **Available For Freelance** [![Gmail](https://img.shields.io/badge/Email%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:breyhanadickenson@gmail.com?subject=Interested%20in%20Working%20With%20You)
+
+
 
 🌐 **[View Live Portfolio](https://ui-ux-designer-psi.vercel.app/)**
 
