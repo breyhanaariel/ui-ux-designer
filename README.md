@@ -20,11 +20,12 @@ I design thoughtful, accessible web and mobile experiences from **research and i
 
 ## 🧠 Core Stack
 
-**Product & UX:** Problem framing · User research · User flows · Information architecture · Wireframing · Usability testing · Iteration  
-**UI & Prototyping:** Figma · FigJam · High-fidelity UI · Responsive design · Interactive prototypes · Microinteractions  
+**Product & UX:** Problem framing · User research · User flows · Information architecture · Wireframing · Usability testing · Iteration 
+**UI & Prototyping:** Figma · FigJam · Framer · Adobe Creative Cloud · High-fidelity UI · Responsive design · Interactive prototypes · Microinteractions  
 **Design Systems:** Components · Variants · Variables · Design tokens · Documentation · Usage guidelines  
 **Accessibility:** WCAG 2.2-informed design · Contrast · Focus states · Touch targets · Reduced motion  
-**Handoff & Collaboration:** Figma Dev Mode · Developer handoff · Responsive specs · Interaction notes · Storybook familiarity · Git
+**Handoff & Collaboration:** Storybook · Git · HTML · CSS · Tailwind CSS · React · Figma Dev Mode · Developer handoff · Responsive specs · Interaction notes · Storybook familiarity · Git
+**Research & Collaboration:**  Maze · Miro · Notion · Google Forms
 
 ---
 
@@ -32,6 +33,7 @@ I design thoughtful, accessible web and mobile experiences from **research and i
 
 ### 🍓 Sweet Habits — Mobile Product Redesign
 **Consumer Mobile · UX Research · Interaction Design · Prototyping**
+Consumer Mobile | End-to-end UX + emotional interaction design
 
 A cozy habit-tracking redesign focused on reducing friction and making routine-building feel encouraging rather than clinical.
 
@@ -51,6 +53,7 @@ A cozy habit-tracking redesign focused on reducing friction and making routine-b
 
 ### 🌸 Blossom UI — Modular Design System
 **Design Systems · Components · Accessibility · Developer Handoff**
+Design System | Components + tokens + accessibility + handoff
 
 A feminine, floral-inspired design system for responsive web and mobile products, demonstrating how a distinctive visual language can remain consistent, scalable, accessible, and developer-friendly.
 
@@ -70,7 +73,8 @@ A feminine, floral-inspired design system for responsive web and mobile products
 
 ### 🍯 Honeycomb HQ — Creative Agency Operations SaaS
 **B2B SaaS · Responsive Product Design · Complex Workflows · Coded Prototype**
-
+B2B SaaS | Complex workflows + responsive UI + coded prototype
+ 
 A responsive operations workspace for small creative agencies managing clients, projects, approvals, deadlines, team workload, and billing.
 
 **What it demonstrates**
@@ -84,41 +88,6 @@ A responsive operations workspace for small creative agencies managing clients, 
 🌐 **[Live Prototype](https://ui-ux-designer-psi.vercel.app/honeycomb-hq/)**  
 🔗 [View Case Study](./honeycomb-hq/README.md)  
 🎨 **Figma:** [View Honeycomb HQ](https://www.figma.com/design/3BObCtX2MJOLX0rZgTg1Vn?node-id=1-77)
-
----
-
-## 🧠 Core Capabilities
-
-| Area | Skills |
-|---|---|
-| 🎨 **Product & UX Design** | Problem framing · User flows · Information architecture · Wireframing · Usability testing |
-| ✨ **UI & Interaction** | High-fidelity UI · Responsive design · Prototyping · Microinteractions · Motion |
-| 🧩 **Design Systems** | Components · Variants · Tokens · Variables · Documentation · Usage guidelines |
-| ♿ **Accessibility** | WCAG 2.2-informed design · Contrast · Focus states · Touch targets · Reduced motion |
-| 💻 **Design → Development** | Figma Dev Mode · Responsive specs · Interaction notes · Handoff documentation |
-
----
-
-## 🌈 Portfolio Range
-
-| Project | Product Type | Primary Proof |
-|---|---|---|
-| 🍓 **Sweet Habits** | Consumer mobile | End-to-end UX + emotional interaction design |
-| 🌸 **Blossom UI** | Design system | Components + tokens + accessibility + handoff |
-| 🍯 **Honeycomb HQ** | B2B SaaS | Complex workflows + responsive UI + coded prototype |
-
----
-
-## 🛠 Tools
-
-**Design & Prototyping**  
-Figma · FigJam · Framer · Adobe Creative Cloud
-
-**Research & Collaboration**  
-Maze · Miro · Notion · Google Forms
-
-**Handoff & Front-End Familiarity**  
-Storybook · Git · HTML · CSS · Tailwind CSS · React
 
 ---
 
