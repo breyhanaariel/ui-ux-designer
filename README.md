@@ -31,63 +31,47 @@ I design thoughtful, accessible web and mobile experiences from **research and i
 
 ## 🌷 Featured Work
 
-### 🍓 Sweet Habits — Mobile Product Redesign
-**Consumer Mobile · UX Research · Interaction Design · Prototyping**
-Consumer Mobile | End-to-end UX + emotional interaction design
+<table>
+<tr>
+<td width="260" valign="top"><img src="./sweet-habits/assets/hero.png" alt="Sweet Habits mobile habit tracker interface" width="250"><br><br><a href="https://ui-ux-designer-psi.vercel.app/sweet-habits/">🌐 Live Prototype</a> · <a href="./sweet-habits/README.md">📖 Case Study</a> · <a href="https://www.figma.com/design/3BObCtX2MJOLX0rZgTg1Vn?node-id=1-16">🎨 Figma</a></td>
+<td valign="top">
+<h3>🍓 Sweet Habits — Mobile Product Redesign</h3>
+<p>Consumer Mobile | End-to-end UX, emotional interaction design, accessible habit flows</p>
+<p>A cozy habit-tracking redesign focused on reducing friction and making routine-building feel encouraging rather than clinical.</p>
+<p><strong>Demonstrates:</strong> problem framing · research planning · user flows · information architecture · wireframing · interface iteration · high-fidelity mobile UI · reduced-motion considerations</p>
+<p><strong>Process &amp; Tools:</strong> Figma · FigJam · user flows · wireframes · interactive prototype · accessibility-minded states · developer handoff</p>
+<p><strong>Design goal:</strong> Make essential habit actions fast and clear while keeping progress feedback supportive, calm, and useful rather than punitive.</p>
+</td>
+</tr>
+</table>
 
-A cozy habit-tracking redesign focused on reducing friction and making routine-building feel encouraging rather than clinical.
+<table>
+<tr>
+<td width="260" valign="top"><img src="./blossom-ui/assets/hero.png" alt="Blossom UI floral-inspired design system" width="250"><br><br><a href="https://ui-ux-designer-psi.vercel.app/blossom-ui/">🌐 Live Design System</a> · <a href="./blossom-ui/README.md">📖 Case Study</a> · <a href="https://www.figma.com/design/3BObCtX2MJOLX0rZgTg1Vn?node-id=1-43">🎨 Figma</a></td>
+<td valign="top">
+<h3>🌸 Blossom UI — Modular Design System</h3>
+<p>Design System | Components, tokens, accessibility, responsive behavior, handoff</p>
+<p>A feminine, floral-inspired design system for responsive web and mobile products, demonstrating how a distinctive visual language can remain consistent, scalable, accessible, and developer-friendly.</p>
+<p><strong>Demonstrates:</strong> design tokens · variables · component architecture · variants · interaction states · responsive patterns · accessibility specifications · usage guidance</p>
+<p><strong>Process &amp; Tools:</strong> Figma variables · reusable components · interactive states · coded design-system showcase · documentation · Figma Dev Mode / Storybook-ready handoff thinking</p>
+<p><strong>Design goal:</strong> Prove that an expressive feminine visual system can scale across products without sacrificing consistency, usability, accessibility, or implementation clarity.</p>
+</td>
+</tr>
+</table>
 
-**Demonstrates:**
-- Problem framing and research planning
-- User flows and information architecture
-- Wireframing and interface iteration
-- High-fidelity mobile UI
-- Microinteractions and reduced-motion considerations
-- Usability testing plan and developer handoff
-
-🌐 **[Live Prototype](https://ui-ux-designer-psi.vercel.app/sweet-habits/)**  
-🔗 [View Case Study](./sweet-habits/README.md)  
-🎨 **Figma:** [View Sweet Habits design](https://www.figma.com/design/3BObCtX2MJOLX0rZgTg1Vn?node-id=1-16)
-
----
-
-### 🌸 Blossom UI — Modular Design System
-**Design Systems · Components · Accessibility · Developer Handoff**
-Design System | Components + tokens + accessibility + handoff
-
-A feminine, floral-inspired design system for responsive web and mobile products, demonstrating how a distinctive visual language can remain consistent, scalable, accessible, and developer-friendly.
-
-**What it demonstrates**
-- Design tokens and variables
-- Component architecture and variants
-- Interaction states and responsive behavior
-- Accessibility specifications
-- Documentation and usage guidance
-- Figma Dev Mode / Storybook-ready handoff thinking
-
-🌐 **[Live Design System](https://ui-ux-designer-psi.vercel.app/blossom-ui/)**  
-🔗 [View Design System Case Study](./blossom-ui/README.md)  
-🌷 **Figma Library:** [View Blossom UI](https://www.figma.com/design/3BObCtX2MJOLX0rZgTg1Vn?node-id=1-43)
-
----
-
-### 🍯 Honeycomb HQ — Creative Agency Operations SaaS
-**B2B SaaS · Responsive Product Design · Complex Workflows · Coded Prototype**
-B2B SaaS | Complex workflows + responsive UI + coded prototype
- 
-A responsive operations workspace for small creative agencies managing clients, projects, approvals, deadlines, team workload, and billing.
-
-**What it demonstrates**
-- Complex B2B information architecture
-- Dashboard prioritization and data density
-- Tables, search, filters, and workflow states
-- Responsive desktop-to-mobile product design
-- Error prevention and accessibility
-- Design-to-code thinking with a working interactive prototype
-
-🌐 **[Live Prototype](https://ui-ux-designer-psi.vercel.app/honeycomb-hq/)**  
-🔗 [View Case Study](./honeycomb-hq/README.md)  
-🎨 **Figma:** [View Honeycomb HQ](https://www.figma.com/design/3BObCtX2MJOLX0rZgTg1Vn?node-id=1-77)
+<table>
+<tr>
+<td width="260" valign="top"><img src="./honeycomb-hq/assets/hero.png" alt="Honeycomb HQ creative agency operations SaaS dashboard" width="250"><br><br><a href="https://ui-ux-designer-psi.vercel.app/honeycomb-hq/">🌐 Live Prototype</a> · <a href="./honeycomb-hq/README.md">📖 Case Study</a> · <a href="https://www.figma.com/design/3BObCtX2MJOLX0rZgTg1Vn?node-id=1-77">🎨 Figma</a></td>
+<td valign="top">
+<h3>🍯 Honeycomb HQ — Creative Agency Operations SaaS</h3>
+<p>B2B SaaS | Complex workflows, responsive product design, data-dense operational UX</p>
+<p>A responsive operations workspace for small creative agencies managing clients, projects, approvals, deadlines, team workload, and billing.</p>
+<p><strong>Demonstrates:</strong> complex information architecture · dashboard prioritization · tables · search · filtering · workflow states · responsive desktop-to-mobile design · error prevention · accessibility</p>
+<p><strong>Process &amp; Tools:</strong> Figma · role-based flows · responsive wireframes · interactive prototype · coded workflow states · accessibility-minded interaction design · developer handoff</p>
+<p><strong>Design goal:</strong> Help agency operators identify what needs attention now, understand why it matters, and take action without reconstructing project status across disconnected tools.</p>
+</td>
+</tr>
+</table>
 
 ---
 
