@@ -23,6 +23,18 @@ jobs:
           test -f sweet-habits/assets/hero.png
           test -f blossom-ui/assets/hero.png
           test -f honeycomb-hq/assets/hero.png
+          test -f docs/index.html
+          test -f docs/styles.css
+          test -f docs/script.js
+          test -f docs/.nojekyll
+          test -f docs/sweet-habits/index.html
+          test -f docs/blossom-ui/index.html
+          test -f docs/honeycomb-hq/index.html
+          test -f docs/404.html
+          grep -q "Research" docs/index.html
+          grep -q "Sweet Habits" docs/sweet-habits/index.html
+          grep -q "Blossom UI" docs/blossom-ui/index.html
+          grep -q "Honeycomb HQ" docs/honeycomb-hq/index.html
           grep -q "Sweet Habits" site/index.html
           grep -q "Blossom UI" site/index.html
           grep -q "Honeycomb HQ" site/index.html
