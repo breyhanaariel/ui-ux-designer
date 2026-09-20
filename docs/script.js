@@ -1,0 +1,1 @@
+document.querySelectorAll('[data-year]').forEach(el=>el.textContent=new Date().getFullYear());const b=document.querySelector('.backtop');if(b){b.addEventListener('click',()=>window.scrollTo({top:0,behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'}));}
