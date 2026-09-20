@@ -16,6 +16,8 @@ I design thoughtful, accessible web and mobile experiences from **research and i
 
 🌐 **[View Live Portfolio](https://ui-ux-designer-psi.vercel.app/)**
 
+🐙 **[View GitHub Pages Microsite](https://breyhanaariel.github.io/ui-ux-designer/)**
+
 ---
 
 ## 🧠 Core Stack
