@@ -14,9 +14,9 @@ I design thoughtful, accessible web and mobile experiences from **research and i
 
 💌 **Available For Freelance** [![Gmail](https://img.shields.io/badge/Email%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:breyhanadickenson@gmail.com?subject=Interested%20in%20Working%20With%20You)
 
-🌐 **[View Live Portfolio](https://ui-ux-designer-psi.vercel.app/)**
+🌐 **[View Portfolio Microsite](https://breyhanaariel.github.io/ui-ux-designer/)**
 
-🐙 **[View GitHub Pages Microsite](https://breyhanaariel.github.io/ui-ux-designer/)**
+🚀 **[View Live Vercel Portfolio](https://ui-ux-designer-psi.vercel.app/)**
 
 ---
 
