@@ -4,6 +4,8 @@
 
 I design thoughtful, accessible web and mobile experiences from **research and information architecture** through **high-fidelity UI, prototyping, testing, and developer handoff**.
 
+![Portfolio Preview](./assets/portfolio-cover.png)
+
 ---
 
 ## 💌 Hire Me
