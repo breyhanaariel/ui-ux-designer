@@ -1,32 +1,30 @@
 # 🎀 Brianna Dickenson 🎀
 
-### **UI/UX Designer | Product Design · Design Systems**
+## UI/UX Designer · Product Design · Design Systems
 
 I design thoughtful, accessible web and mobile experiences from **research and information architecture** through **high-fidelity UI, prototyping, testing, and developer handoff**.
 
-![Portfolio Preview](./assets/portfolio-cover.png)
+---
+
+## 💌 Hire Me
+
+🕓 **Seeking Full-Time Remote Position** · 💌 **Available for Freelance**
+
+🌐 **[View Live Portfolio](https://breyhanaariel.github.io/ui-ux-designer/)** · 💌 **[Hire Me / Project Inquiry](https://breyhanaariel.github.io/ui-ux-designer/#contact)**
+
+💼 [LinkedIn](https://www.linkedin.com/in/brianna-dickenson-9555515b) · [Email](mailto:breyhanadickenson@gmail.com?subject=UI%2FUX%20Designer%20Inquiry)
+
+🚀 [View Live Vercel Portfolio](https://ui-ux-designer-psi.vercel.app/)
 
 ---
 
-## 💌 Work With Me
-
-🕓 **Seeking Full Time Remote Position**  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianna-dickenson-9555515b)
-
-💌 **Available For Freelance** [![Gmail](https://img.shields.io/badge/Email%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:breyhanadickenson@gmail.com?subject=Interested%20in%20Working%20With%20You)
-
-🌐 **[View Portfolio Microsite](https://breyhanaariel.github.io/ui-ux-designer/)**
-
-🚀 **[View Live Vercel Portfolio](https://ui-ux-designer-psi.vercel.app/)**
-
----
-
-## 🧠 Core Stack
+## 🧠 Skills & Technologies
 
 **Product & UX:** Problem framing · User research · User flows · Information architecture · Wireframing · Usability testing · Iteration 
 **UI & Prototyping:** Figma · FigJam · Framer · Adobe Creative Cloud · High-fidelity UI · Responsive design · Interactive prototypes · Microinteractions  
 **Design Systems:** Components · Variants · Variables · Design tokens · Documentation · Usage guidelines  
 **Accessibility:** WCAG 2.2-informed design · Contrast · Focus states · Touch targets · Reduced motion  
-**Handoff & Collaboration:** Storybook · Git · HTML · CSS · Tailwind CSS · React · Figma Dev Mode · Developer handoff · Responsive specs · Interaction notes · Storybook familiarity · Git
+**Handoff & Collaboration:** Storybook · Git · HTML · CSS · Tailwind CSS · React · Figma Dev Mode · Developer handoff · Responsive specs · Interaction notes
 **Research & Collaboration:**  Maze · Miro · Notion · Google Forms
 
 ---
@@ -77,6 +75,12 @@ I design thoughtful, accessible web and mobile experiences from **research and i
 
 ---
 
+## ✅ Quality & Evidence
+
+**Design quality priorities:** WCAG 2.2-informed contrast, focus states, touch targets, reduced motion, component states, responsive behavior, and developer handoff specifications. Project-specific evidence and design decisions are documented in the linked case studies.
+
+---
+
 ## 🌈 How I Work
 
 1. **Understand** — define the problem, audience, constraints, and success criteria.
@@ -88,11 +92,21 @@ I design thoughtful, accessible web and mobile experiences from **research and i
 
 ---
 
-## 🌸 Explore My Work
+## 🛠 Repository & Documentation
 
-My portfolio is intentionally separated by specialty so each discipline can tell a focused story while still showing how my skills connect.
+Explore the project-specific folders and case studies linked in **Featured Work** for detailed design decisions, implementation notes, assets, and project status.
 
-- 🎀 **UI/UX Designer** — product design, research, flows, design systems, prototyping, and complex interaction design
-- 💻 [Front-End Developer](https://github.com/breyhanaariel/front-end-developer) — React, Next.js, TypeScript, APIs, testing, and accessible implementation
-- 🌐 [Web Designer](https://github.com/breyhanaariel/web-designer) — responsive websites and brand-led digital experiences for short-term client projects
-- 🎨 [Graphic Designer](https://github.com/breyhanaariel/graphic-designer) — brand identity, campaign design, marketing assets, print, and motion
+The portfolio microsite lives in [`site/`](./site/).
+
+---
+
+## 🌸 Portfolio Family
+
+My portfolios are organized by specialty. Explore the live microsites below:
+
+- 💻 [Front-End Developer](https://breyhanaariel.github.io/front-end-developer/)
+- 🎀 **UI/UX Designer (current portfolio)**
+- 🌐 [Web Designer](https://breyhanaariel.github.io/web-designer/)
+- 🎨 [Graphic Designer](https://breyhanaariel.github.io/graphic-designer/)
+- 📱 [Mobile Application Developer](https://breyhanaariel.github.io/mobile-app-developer/)
+- 🤖 [AI Automation Specialist](https://breyhanaariel.github.io/ai-automation-specialist/)
