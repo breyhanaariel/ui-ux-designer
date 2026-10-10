@@ -32,7 +32,17 @@ main{min-height:calc(100vh - 66px)}
 
 /* Shared accessible Featured Work carousel */
 #work .work-carousel{position:relative;min-width:0}#work .work-viewport{overflow:hidden;min-width:0;touch-action:pan-y;overscroll-behavior-inline:contain}#work .work-track{display:flex!important;flex-wrap:nowrap!important;align-items:stretch!important;gap:20px!important;margin-top:0!important;transition:transform .3s ease;will-change:transform}#work .work-track>.card,#work .work-track>.project{flex:0 0 calc((100% - 40px)/3)!important;width:calc((100% - 40px)/3)!important;min-width:0!important;max-width:none!important;box-sizing:border-box;display:flex!important;flex-direction:column!important;height:auto!important}#work .work-track>.card>.project-actions,#work .work-track>.card>.links{margin-top:auto!important}#work .work-track>.project>div:last-child{display:flex;flex-direction:column;flex:1}#work .work-track>.project .actions{margin-top:auto}#work .work-controls{display:flex;align-items:center;justify-content:flex-end;gap:10px;margin:0 0 16px}#work .work-arrow{display:grid;place-items:center;width:42px;height:42px;border-radius:50%;border:1px solid var(--line,#ddd);background:#fff;color:inherit;font:inherit;font-size:1.45rem;cursor:pointer;line-height:1}#work .work-arrow:disabled{opacity:.3;cursor:default}#work .work-counter{font-size:.85rem;color:var(--muted,#777);min-width:95px;text-align:center}#work .work-controls[hidden]{display:none!important}#work .work-track>.card .actions,#work .work-track>.card .project-actions{margin-top:auto}#work .work-track>.card .links{margin-top:auto}@media(max-width:950px){#work .work-track>.card,#work .work-track>.project{flex-basis:calc((100% - 20px)/2)!important;width:calc((100% - 20px)/2)!important}}@media(max-width:650px){#work .work-track>.card,#work .work-track>.project{flex-basis:100%!important;width:100%!important}}@media(prefers-reduced-motion:reduce){#work .work-track{transition:none!important}}
-#work .work-track>.work-page-hidden{display:none!important}#work .work-track{transition:none!important}\n</style>
+#work .work-track>.work-page-hidden{display:none!important}#work .work-track{transition:none!important}\n
+/* Portfolio Family: sticky navigation and accessible, scroll-triggered back-to-top */
+.topnav{position:sticky;top:0;z-index:50;backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px)}
+html{scroll-padding-top:86px}
+.backtop{position:fixed;right:18px;bottom:18px;width:44px;height:44px;display:grid;place-items:center;padding:0;border-radius:50%;border:1px solid var(--line, #ded8e6);background:#fff;color:var(--backtop-accent,var(--violet,var(--accent,var(--ink,#6d56c7))));box-shadow:0 12px 30px rgba(78,49,67,.13);font-family:inherit;font-size:1.25rem;line-height:1;font-weight:800;cursor:pointer;z-index:60;transition:opacity .18s ease,visibility .18s ease,transform .18s ease,box-shadow .18s ease}
+.backtop:not(.is-visible){opacity:0;visibility:hidden;pointer-events:none;transform:translateY(8px)}
+.backtop.is-visible{opacity:1;visibility:visible;transform:translateY(0)}
+.backtop.is-visible:hover{transform:translateY(-3px);box-shadow:0 16px 36px rgba(78,49,67,.19)}
+.backtop:focus-visible{outline:3px solid var(--backtop-accent,var(--violet,var(--accent,#6d56c7)));outline-offset:3px}
+@media(prefers-reduced-motion:reduce){.backtop{transition:none}.backtop.is-visible:hover{transform:none}}
+</style>
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
@@ -222,5 +232,11 @@ function honey(){hqView='overview';hRender()}
 
 if(route==='sweet-habits')sweet();else if(route==='blossom-ui')blossom();else if(route==='honeycomb-hq')honey();else landing();
 if(route!=='sweet-habits'&&route!=='blossom-ui'&&route!=='honeycomb-hq')initWorkCarousel(app);
+</script>
+<button class="backtop" type="button" aria-label="Back to top" title="Back to top">↑</button>
+
+<script>
+/* Shared behavior: show the return control only after scrolling down. */
+(()=>{const button=document.querySelector('.backtop');if(!button)return;const update=()=>{const visible=window.scrollY>300;button.classList.toggle('is-visible',visible);button.tabIndex=visible?0:-1;button.setAttribute('aria-hidden',String(!visible))};window.addEventListener('scroll',update,{passive:true});window.addEventListener('pageshow',update);update();button.addEventListener('click',()=>window.scrollTo({top:0,behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'}));})();
 </script>
 </body></html>
