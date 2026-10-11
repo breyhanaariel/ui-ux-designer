@@ -1,0 +1,20 @@
+{
+  "title": "UI/UX Designer",
+  "accent": "#AC76A6",
+  "summary": "UI/UX designer creating accessible responsive digital experiences through information architecture, user flows, prototyping and reusable design systems.",
+  "skills": "Figma · FigJam · User flows · Wireframing · Prototyping · Design systems · Responsive UI · Accessibility",
+  "experience": [
+    "Contributed to website usability, responsive layouts, and interface improvements.",
+    "Supported WordPress visual design, accessibility and quality assurance."
+  ],
+  "projects": [
+    {
+      "name": "Sweet Habits — Mobile Product Redesign",
+      "details": "Created an independent habit-tracking UX concept with user flows, wireframes, high-fidelity mobile interfaces and interactive prototype."
+    },
+    {
+      "name": "Blossom UI — Modular Design System",
+      "details": "Developed a responsive design-system concept with reusable components, tokens, variants, interaction states and handoff guidance."
+    }
+  ]
+}
